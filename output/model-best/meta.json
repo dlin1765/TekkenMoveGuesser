@@ -30,24 +30,27 @@
       "MOVE_TYPE",
       "RANGE",
       "SPECIFIC_INPUT",
+      "SPECIFIC_MOVE",
       "STRING_DETAIL"
     ]
   },
   "pipeline":[
     "tok2vec",
+    "specificMoves",
     "ner"
   ],
   "components":[
     "tok2vec",
+    "specificMoves",
     "ner"
   ],
   "disabled":[
 
   ],
   "performance":{
-    "ents_f":1.0,
-    "ents_p":1.0,
-    "ents_r":1.0,
+    "ents_f":0.9536423841,
+    "ents_p":0.9536423841,
+    "ents_r":0.9536423841,
     "ents_per_type":{
       "MOVE_HIT_PROPERTY":{
         "p":1.0,
@@ -91,8 +94,13 @@
       },
       "SPECIFIC_INPUT":{
         "p":1.0,
-        "r":1.0,
-        "f":1.0
+        "r":0.6666666667,
+        "f":0.8
+      },
+      "SPECIFIC_MOVE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
       },
       "STRING_DETAIL":{
         "p":1.0,
@@ -100,7 +108,7 @@
         "f":1.0
       }
     },
-    "tok2vec_loss":285.8467518266,
-    "ner_loss":49.9447306087
+    "tok2vec_loss":145.2196258394,
+    "ner_loss":18.0013929738
   }
 }
