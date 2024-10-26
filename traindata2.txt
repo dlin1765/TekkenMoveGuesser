@@ -246,563 +246,66 @@ quick heel
 quick sweep smash
 quick slide
 quick knee
-swift punch
-swift jab
-swift palm poke
-swift fist
-swift uppercut
-swift hand
-swift chop
-swift slap move
-swift armbar
-swift swing
-swift shove
-swift push
-swift elbow poke
-swift shoulder
-swift tackle
-swift body
-swift head
-swift headbutt jab
-swift finger
-swift butt
-swift leg
-swift foot
-swift kick smash
-swift roundhouse
-swift round house
-swift axe kick
-swift axekick
-swift heel check
-swift sweep
-swift slide
-swift knee
 rapid punch
-rapid jab check
-rapid palm
+rapid jab
+rapid palm poke
 rapid fist
 rapid uppercut
 rapid hand
-rapid chop check
-rapid slap
+rapid chop
+rapid slap move
 rapid armbar
 rapid swing
 rapid shove
-rapid push strike
-rapid elbow
+rapid push
+rapid elbow poke
 rapid shoulder
 rapid tackle
 rapid body
-rapid head jab
-rapid headbutt
+rapid head
+rapid headbutt jab
 rapid finger
 rapid butt
 rapid leg
-rapid foot smash
-rapid kick
+rapid foot
+rapid kick smash
 rapid roundhouse
 rapid round house
 rapid axe kick
-rapid axekick poke
-rapid heel
+rapid axekick
+rapid heel check
 rapid sweep
 rapid slide
 rapid knee
-nimble punch smash
-nimble jab
-nimble palm
-nimble fist
-nimble uppercut
-nimble hand move
-nimble chop
-nimble slap
-nimble armbar
-nimble swing
-nimble shove move
-nimble push
-nimble elbow
-nimble shoulder
-nimble tackle
-nimble body check
-nimble head
-nimble headbutt
-nimble finger
-nimble butt
-nimble leg move
-nimble foot
-nimble kick
-nimble roundhouse
-nimble round house
-nimble axe kick strike
-nimble axekick
-nimble heel
-nimble sweep
-nimble slide
-nimble knee strike
-speedy punch
-speedy jab
-speedy palm
-speedy fist
-speedy uppercut check
-speedy hand
-speedy chop
-speedy slap
-speedy armbar
-speedy swing poke
-speedy shove
-speedy push
-speedy elbow
-speedy shoulder
-speedy tackle smash
-speedy body
-speedy head
-speedy headbutt
-speedy finger
-speedy butt jab
-speedy leg
-speedy foot
-speedy kick
-speedy roundhouse
-speedy round house strike
-speedy axe kick
-speedy axekick
-speedy heel
-speedy sweep
-speedy slide smash
-speedy knee
 reactable punch
-reactable jab
+reactable jab check
 reactable palm
-reactable fist strike
+reactable fist
 reactable uppercut
 reactable hand
-reactable chop
+reactable chop check
 reactable slap
-reactable armbar move
+reactable armbar
 reactable swing
 reactable shove
-reactable push
+reactable push strike
 reactable elbow
-reactable shoulder check
+reactable shoulder
 reactable tackle
 reactable body
-reactable head
+reactable head jab
 reactable headbutt
-reactable finger smash
+reactable finger
 reactable butt
 reactable leg
-reactable foot
+reactable foot smash
 reactable kick
-reactable roundhouse poke
+reactable roundhouse
 reactable round house
 reactable axe kick
-reactable axekick
+reactable axekick poke
 reactable heel
-reactable sweep smash
-reactable slide
-reactable knee
-big punch move  that guard crushes 
-big punch smash
-big jab
-big palm
-big fist
-big uppercut
-big hand strike
-big chop
-big slap
-big armbar
-big swing
-big shove check
-big push
-big elbow
-big shoulder
-big tackle
-big body check
-big head
-big headbutt
-big finger
-big butt
-big leg smash
-big foot
-big kick
-big roundhouse
-big round house
-big axe kick strike
-big axekick
-big heel
-big sweep
-big slide
-big knee move
-long punch
-long jab
-long palm
-long fist
-long uppercut check
-long hand
-long chop
-long slap
-long armbar
-long swing check
-long shove
-long push
-long elbow
-long shoulder
-long tackle poke
-long body
-long head
-long headbutt
-long finger
-long butt jab
-long leg
-long foot
-long kick
-long roundhouse
-long round house move
-long axe kick
-long axekick
-long heel
-long sweep
-long slide strike
-long knee
-long range punch
-long range jab
-long range palm
-long range fist smash
-long range uppercut
-long range hand
-long range chop
-long range slap
-long range armbar check
-long range swing
-long range shove
-long range push
-long range elbow
-long range shoulder poke
-long range tackle
-long range body
-long range head
-long range headbutt
-long range finger strike
-long range butt
-long range leg
-long range foot
-long range kick
-long range roundhouse move
-long range round house
-long range axe kick
-long range axekick
-long range heel
-long range sweep jab
-long range slide
-long range knee
-giant punch
-giant jab
-giant palm poke
-giant fist
-giant uppercut
-giant hand
-giant chop
-giant slap strike
-giant armbar
-giant swing
-giant shove
-giant push
-giant elbow check
-giant shoulder
-giant tackle
-giant body
-giant head
-giant headbutt move
-giant finger
-giant butt
-giant leg
-giant foot
-giant kick smash
-giant roundhouse
-giant round house
-giant axe kick
-giant axekick
-giant heel poke
-giant sweep
-giant slide
-giant knee
-huge punch
-huge jab check
-huge palm
-huge fist
-huge uppercut
-huge hand
-huge chop check
-huge slap
-huge armbar
-huge swing
-huge shove
-huge push poke
-huge elbow
-huge shoulder
-huge tackle
-huge body
-huge head jab
-huge headbutt
-huge finger
-huge butt
-huge leg
-huge foot poke
-huge kick
-huge roundhouse
-huge round house
-huge axe kick
-huge axekick check
-huge heel
-huge sweep
-huge slide
-huge knee
-fast punch move
-fast jab
-fast palm
-fast fist
-fast uppercut
-fast hand jab
-fast chop
-fast slap
-fast armbar
-fast swing
-fast shove poke
-fast push
-fast elbow
-fast shoulder
-fast tackle
-fast body jab
-fast head
-fast headbutt
-fast finger
-fast butt
-fast leg poke
-fast foot
-fast kick
-fast roundhouse
-fast round house
-fast axe kick move
-fast axekick
-fast heel
-fast sweep
-fast slide
-fast knee check
-slow punch
-slow jab
-slow palm
-slow fist
-slow uppercut move
-slow hand
-slow chop
-slow slap
-slow armbar
-slow swing check
-slow shove
-slow push
-slow elbow
-slow shoulder
-slow tackle smash
-slow body
-slow head
-slow headbutt
-slow finger
-slow butt check
-slow leg
-slow foot
-slow kick
-slow roundhouse
-slow round house strike
-slow axe kick
-slow axekick
-slow heel
-slow sweep
-slow slide smash
-slow knee
-quick punch
-quick jab
-quick palm
-quick fist strike
-quick uppercut
-quick hand
-quick chop
-quick slap
-quick armbar move
-quick swing
-quick shove
-quick push
-quick elbow
-quick shoulder move
-quick tackle
-quick body
-quick head
-quick headbutt
-quick finger move
-quick butt
-quick leg
-quick foot
-quick kick
-quick roundhouse poke
-quick round house
-quick axe kick
-quick axekick
-quick heel
-quick sweep smash
-quick slide
-quick knee
-swift punch
-swift jab
-swift palm poke
-swift fist
-swift uppercut
-swift hand
-swift chop
-swift slap move
-swift armbar
-swift swing
-swift shove
-swift push
-swift elbow poke
-swift shoulder
-swift tackle
-swift body
-swift head
-swift headbutt jab
-swift finger
-swift butt
-swift leg
-swift foot
-swift kick smash
-swift roundhouse
-swift round house
-swift axe kick
-swift axekick
-swift heel check
-swift sweep
-swift slide
-swift knee
-rapid punch
-rapid jab check
-rapid palm
-rapid fist
-rapid uppercut
-rapid hand
-rapid chop check
-rapid slap
-rapid armbar
-rapid swing
-rapid shove
-rapid push strike
-rapid elbow
-rapid shoulder
-rapid tackle
-rapid body
-rapid head jab
-rapid headbutt
-rapid finger
-rapid butt
-rapid leg
-rapid foot smash
-rapid kick
-rapid roundhouse
-rapid round house
-rapid axe kick
-rapid axekick poke
-rapid heel
-rapid sweep
-rapid slide
-rapid knee
-nimble punch smash
-nimble jab
-nimble palm
-nimble fist
-nimble uppercut
-nimble hand move
-nimble chop
-nimble slap
-nimble armbar
-nimble swing
-nimble shove move
-nimble push
-nimble elbow
-nimble shoulder
-nimble tackle
-nimble body check
-nimble head
-nimble headbutt
-nimble finger
-nimble butt
-nimble leg move
-nimble foot
-nimble kick
-nimble roundhouse
-nimble round house
-nimble axe kick strike
-nimble axekick
-nimble heel
-nimble sweep
-nimble slide
-nimble knee strike
-speedy punch
-speedy jab
-speedy palm
-speedy fist
-speedy uppercut check
-speedy hand
-speedy chop
-speedy slap
-speedy armbar
-speedy swing poke
-speedy shove
-speedy push
-speedy elbow
-speedy shoulder
-speedy tackle smash
-speedy body
-speedy head
-speedy headbutt
-speedy finger
-speedy butt jab
-speedy leg
-speedy foot
-speedy kick
-speedy roundhouse
-speedy round house strike
-speedy axe kick
-speedy axekick
-speedy heel
-speedy sweep
-speedy slide smash
-speedy knee
-reactable punch
-reactable jab
-reactable palm
-reactable fist strike
-reactable uppercut
-reactable hand
-reactable chop
-reactable slap
-reactable armbar move
-reactable swing
-reactable shove
-reactable push
-reactable elbow
-reactable shoulder check
-reactable tackle
-reactable body
-reactable head
-reactable headbutt
-reactable finger smash
-reactable butt
-reactable leg
-reactable foot
-reactable kick
-reactable roundhouse poke
-reactable round house
-reactable axe kick
-reactable axekick
-reactable heel
-reactable sweep smash
+reactable sweep
 reactable slide
 reactable knee
 jumping punch smash
@@ -6385,652 +5888,32 @@ quick forward heel
 quick forward sweep
 quick forward slide
 quick forward knee
-swift jumping punch jab
-swift jumping jab
-swift jumping palm
-swift jumping fist
-swift jumping uppercut
-swift jumping hand poke
-swift jumping chop
-swift jumping slap
-swift jumping armbar
-swift jumping swing
-swift jumping shove poke
-swift jumping push
-swift jumping elbow
-swift jumping shoulder
-swift jumping tackle
-swift jumping body smash
-swift jumping head
-swift jumping headbutt
-swift jumping finger
-swift jumping butt
-swift jumping leg poke
-swift jumping foot
-swift jumping kick
-swift jumping roundhouse
-swift jumping round house
-swift jumping axe kick move
-swift jumping axekick
-swift jumping heel
-swift jumping sweep
-swift jumping slide
-swift jumping knee poke
-swift bouncing punch
-swift bouncing jab
-swift bouncing palm
-swift bouncing fist
-swift bouncing uppercut smash
-swift bouncing hand
-swift bouncing chop
-swift bouncing slap
-swift bouncing armbar
-swift bouncing swing jab
-swift bouncing shove
-swift bouncing push
-swift bouncing elbow
-swift bouncing shoulder
-swift bouncing tackle move
-swift bouncing body
-swift bouncing head
-swift bouncing headbutt
-swift bouncing finger
-swift bouncing butt jab
-swift bouncing leg
-swift bouncing foot
-swift bouncing kick
-swift bouncing roundhouse
-swift bouncing round house strike
-swift bouncing axe kick
-swift bouncing axekick
-swift bouncing heel
-swift bouncing sweep
-swift bouncing slide strike
-swift bouncing knee
-swift hopping punch
-swift hopping jab
-swift hopping palm
-swift hopping fist check
-swift hopping uppercut
-swift hopping hand
-swift hopping chop
-swift hopping slap
-swift hopping armbar jab
-swift hopping swing
-swift hopping shove
-swift hopping push
-swift hopping elbow
-swift hopping shoulder strike
-swift hopping tackle
-swift hopping body
-swift hopping head
-swift hopping headbutt
-swift hopping finger check
-swift hopping butt
-swift hopping leg
-swift hopping foot
-swift hopping kick
-swift hopping roundhouse smash
-swift hopping round house
-swift hopping axe kick
-swift hopping axekick
-swift hopping heel
-swift hopping sweep smash
-swift hopping slide
-swift hopping knee
-swift running punch
-swift running jab
-swift running palm strike
-swift running fist
-swift running uppercut
-swift running hand
-swift running chop
-swift running slap move
-swift running armbar
-swift running swing
-swift running shove
-swift running push
-swift running elbow smash
-swift running shoulder
-swift running tackle
-swift running body
-swift running head
-swift running headbutt move
-swift running finger
-swift running butt
-swift running leg
-swift running foot
-swift running kick check
-swift running roundhouse
-swift running round house
-swift running axe kick
-swift running axekick
-swift running heel move
-swift running sweep
-swift running slide
-swift running knee
-swift spinning punch
-swift spinning jab check
-swift spinning palm
-swift spinning fist
-swift spinning uppercut
-swift spinning hand
-swift spinning chop check
-swift spinning slap
-swift spinning armbar
-swift spinning swing
-swift spinning shove
-swift spinning push strike
-swift spinning elbow
-swift spinning shoulder
-swift spinning tackle
-swift spinning body
-swift spinning head move
-swift spinning headbutt
-swift spinning finger
-swift spinning butt
-swift spinning leg
-swift spinning foot strike
-swift spinning kick
-swift spinning roundhouse
-swift spinning round house
-swift spinning axe kick
-swift spinning axekick poke
-swift spinning heel
-swift spinning sweep
-swift spinning slide
-swift spinning knee
-swift approaching punch jab
-swift approaching jab
-swift approaching palm
-swift approaching fist
-swift approaching uppercut
-swift approaching hand jab
-swift approaching chop
-swift approaching slap
-swift approaching armbar
-swift approaching swing
-swift approaching shove poke
-swift approaching push
-swift approaching elbow
-swift approaching shoulder
-swift approaching tackle
-swift approaching body move
-swift approaching head
-swift approaching headbutt
-swift approaching finger
-swift approaching butt
-swift approaching leg jab
-swift approaching foot
-swift approaching kick
-swift approaching roundhouse
-swift approaching round house
-swift approaching axe kick strike
-swift approaching axekick
-swift approaching heel
-swift approaching sweep
-swift approaching slide
-swift approaching knee check
-swift advancing punch
-swift advancing jab
-swift advancing palm
-swift advancing fist
-swift advancing uppercut jab
-swift advancing hand
-swift advancing chop
-swift advancing slap
-swift advancing armbar
-swift advancing swing jab
-swift advancing shove
-swift advancing push
-swift advancing elbow
-swift advancing shoulder
-swift advancing tackle smash
-swift advancing body
-swift advancing head
-swift advancing headbutt
-swift advancing finger
-swift advancing butt strike
-swift advancing leg
-swift advancing foot
-swift advancing kick
-swift advancing roundhouse
-swift advancing round house jab
-swift advancing axe kick
-swift advancing axekick
-swift advancing heel
-swift advancing sweep
-swift advancing slide strike
-swift advancing knee
-swift forward moving punch
-swift forward moving jab
-swift forward moving palm
-swift forward moving fist strike
-swift forward moving uppercut
-swift forward moving hand
-swift forward moving chop
-swift forward moving slap
-swift forward moving armbar check
-swift forward moving swing
-swift forward moving shove
-swift forward moving push
-swift forward moving elbow
-swift forward moving shoulder smash
-swift forward moving tackle
-swift forward moving body
-swift forward moving head
-swift forward moving headbutt
-swift forward moving finger check
-swift forward moving butt
-swift forward moving leg
-swift forward moving foot
-swift forward moving kick
-swift forward moving roundhouse smash
-swift forward moving round house
-swift forward moving axe kick
-swift forward moving axekick
-swift forward moving heel
-swift forward moving sweep smash
-swift forward moving slide
-swift forward moving knee
-swift backwards moving punch
-swift backwards moving jab
-swift backwards moving palm poke
-swift backwards moving fist
-swift backwards moving uppercut
-swift backwards moving hand
-swift backwards moving chop
-swift backwards moving slap jab
-swift backwards moving armbar
-swift backwards moving swing
-swift backwards moving shove
-swift backwards moving push
-swift backwards moving elbow smash
-swift backwards moving shoulder
-swift backwards moving tackle
-swift backwards moving body
-swift backwards moving head
-swift backwards moving headbutt smash
-swift backwards moving finger
-swift backwards moving butt
-swift backwards moving leg
-swift backwards moving foot
-swift backwards moving kick jab
-swift backwards moving roundhouse
-swift backwards moving round house
-swift backwards moving axe kick
-swift backwards moving axekick
-swift backwards moving heel poke
-swift backwards moving sweep
-swift backwards moving slide
-swift backwards moving knee
-swift backwards punch
-swift backwards jab poke
-swift backwards palm
-swift backwards fist
-swift backwards uppercut
-swift backwards hand
-swift backwards chop smash
-swift backwards slap
-swift backwards armbar
-swift backwards swing
-swift backwards shove
-swift backwards push move
-swift backwards elbow
-swift backwards shoulder
-swift backwards tackle
-swift backwards body
-swift backwards head check
-swift backwards headbutt
-swift backwards finger
-swift backwards butt
-swift backwards leg
-swift backwards foot jab
-swift backwards kick
-swift backwards roundhouse
-swift backwards round house
-swift backwards axe kick
-swift backwards axekick poke
-swift backwards heel
-swift backwards sweep
-swift backwards slide
-swift backwards knee
-swift retreating punch poke
-swift retreating jab
-swift retreating palm
-swift retreating fist
-swift retreating uppercut
-swift retreating hand strike
-swift retreating chop
-swift retreating slap
-swift retreating armbar
-swift retreating swing
-swift retreating shove poke
-swift retreating push
-swift retreating elbow
-swift retreating shoulder
-swift retreating tackle
-swift retreating body jab
-swift retreating head
-swift retreating headbutt
-swift retreating finger
-swift retreating butt
-swift retreating leg poke
-swift retreating foot
-swift retreating kick
-swift retreating roundhouse
-swift retreating round house
-swift retreating axe kick jab
-swift retreating axekick
-swift retreating heel
-swift retreating sweep
-swift retreating slide
-swift retreating knee poke
-swift dodging punch
-swift dodging jab
-swift dodging palm
-swift dodging fist
-swift dodging uppercut jab
-swift dodging hand
-swift dodging chop
-swift dodging slap
-swift dodging armbar
-swift dodging swing smash
-swift dodging shove
-swift dodging push
-swift dodging elbow
-swift dodging shoulder
-swift dodging tackle strike
-swift dodging body
-swift dodging head
-swift dodging headbutt
-swift dodging finger
-swift dodging butt poke
-swift dodging leg
-swift dodging foot
-swift dodging kick
-swift dodging roundhouse
-swift dodging round house jab
-swift dodging axe kick
-swift dodging axekick
-swift dodging heel
-swift dodging sweep
-swift dodging slide check
-swift dodging knee
-swift evading punch
-swift evading jab
-swift evading palm
-swift evading fist poke
-swift evading uppercut
-swift evading hand
-swift evading chop
-swift evading slap
-swift evading armbar check
-swift evading swing
-swift evading shove
-swift evading push
-swift evading elbow
-swift evading shoulder check
-swift evading tackle
-swift evading body
-swift evading head
-swift evading headbutt
-swift evading finger check
-swift evading butt
-swift evading leg
-swift evading foot
-swift evading kick
-swift evading roundhouse move
-swift evading round house
-swift evading axe kick
-swift evading axekick
-swift evading heel
-swift evading sweep poke
-swift evading slide
-swift evading knee
-swift flying punch
-swift flying jab
-swift flying palm strike
-swift flying fist
-swift flying uppercut
-swift flying hand
-swift flying chop
-swift flying slap move
-swift flying armbar
-swift flying swing
-swift flying shove
-swift flying push
-swift flying elbow smash
-swift flying shoulder
-swift flying tackle
-swift flying body
-swift flying head
-swift flying headbutt smash
-swift flying finger
-swift flying butt
-swift flying leg
-swift flying foot
-swift flying kick move
-swift flying roundhouse
-swift flying round house
-swift flying axe kick
-swift flying axekick
-swift flying heel strike
-swift flying sweep
-swift flying slide
-swift flying knee
-swift rolling punch
-swift rolling jab check
-swift rolling palm
-swift rolling fist
-swift rolling uppercut
-swift rolling hand
-swift rolling chop poke
-swift rolling slap
-swift rolling armbar
-swift rolling swing
-swift rolling shove
-swift rolling push check
-swift rolling elbow
-swift rolling shoulder
-swift rolling tackle
-swift rolling body
-swift rolling head poke
-swift rolling headbutt
-swift rolling finger
-swift rolling butt
-swift rolling leg
-swift rolling foot move
-swift rolling kick
-swift rolling roundhouse
-swift rolling round house
-swift rolling axe kick
-swift rolling axekick poke
-swift rolling heel
-swift rolling sweep
-swift rolling slide
-swift rolling knee
-swift sliding punch move
-swift sliding jab
-swift sliding palm
-swift sliding fist
-swift sliding uppercut
-swift sliding hand jab
-swift sliding chop
-swift sliding slap
-swift sliding armbar
-swift sliding swing
-swift sliding shove jab
-swift sliding push
-swift sliding elbow
-swift sliding shoulder
-swift sliding tackle
-swift sliding body jab
-swift sliding head
-swift sliding headbutt
-swift sliding finger
-swift sliding butt
-swift sliding leg move
-swift sliding foot
-swift sliding kick
-swift sliding roundhouse
-swift sliding round house
-swift sliding axe kick strike
-swift sliding axekick
-swift sliding heel
-swift sliding sweep
-swift sliding slide
-swift sliding knee strike
-swift overhead punch
-swift overhead jab
-swift overhead palm
-swift overhead fist
-swift overhead uppercut smash
-swift overhead hand
-swift overhead chop
-swift overhead slap
-swift overhead armbar
-swift overhead swing move
-swift overhead shove
-swift overhead push
-swift overhead elbow
-swift overhead shoulder
-swift overhead tackle smash
-swift overhead body
-swift overhead head
-swift overhead headbutt
-swift overhead finger
-swift overhead butt smash
-swift overhead leg
-swift overhead foot
-swift overhead kick
-swift overhead roundhouse
-swift overhead round house smash
-swift overhead axe kick
-swift overhead axekick
-swift overhead heel
-swift overhead sweep
-swift overhead slide move
-swift overhead knee
-swift downwards punch
-swift downwards jab
-swift downwards palm
-swift downwards fist strike
-swift downwards uppercut
-swift downwards hand
-swift downwards chop
-swift downwards slap
-swift downwards armbar smash
-swift downwards swing
-swift downwards shove
-swift downwards push
-swift downwards elbow
-swift downwards shoulder poke
-swift downwards tackle
-swift downwards body
-swift downwards head
-swift downwards headbutt
-swift downwards finger poke
-swift downwards butt
-swift downwards leg
-swift downwards foot
-swift downwards kick
-swift downwards roundhouse check
-swift downwards round house
-swift downwards axe kick
-swift downwards axekick
-swift downwards heel
-swift downwards sweep poke
-swift downwards slide
-swift downwards knee
-swift rising punch
-swift rising jab
-swift rising palm poke
-swift rising fist
-swift rising uppercut
-swift rising hand
-swift rising chop
-swift rising slap poke
-swift rising armbar
-swift rising swing
-swift rising shove
-swift rising push
-swift rising elbow strike
-swift rising shoulder
-swift rising tackle
-swift rising body
-swift rising head
-swift rising headbutt move
-swift rising finger
-swift rising butt
-swift rising leg
-swift rising foot
-swift rising kick jab
-swift rising roundhouse
-swift rising round house
-swift rising axe kick
-swift rising axekick
-swift rising heel poke
-swift rising sweep
-swift rising slide
-swift rising knee
-swift forward punch
-swift forward jab strike
-swift forward palm
-swift forward fist
-swift forward uppercut
-swift forward hand
-swift forward chop jab
-swift forward slap
-swift forward armbar
-swift forward swing
-swift forward shove
-swift forward push strike
-swift forward elbow
-swift forward shoulder
-swift forward tackle
-swift forward body
-swift forward head jab
-swift forward headbutt
-swift forward finger
-swift forward butt
-swift forward leg
-swift forward foot smash
-swift forward kick
-swift forward roundhouse
-swift forward round house
-swift forward axe kick
-swift forward axekick move
-swift forward heel
-swift forward sweep
-swift forward slide
-swift forward knee
-rapid jumping punch check
+rapid jumping punch jab
 rapid jumping jab
 rapid jumping palm
 rapid jumping fist
 rapid jumping uppercut
-rapid jumping hand smash
+rapid jumping hand poke
 rapid jumping chop
 rapid jumping slap
 rapid jumping armbar
 rapid jumping swing
-rapid jumping shove jab
+rapid jumping shove poke
 rapid jumping push
 rapid jumping elbow
 rapid jumping shoulder
 rapid jumping tackle
-rapid jumping body move
+rapid jumping body smash
 rapid jumping head
 rapid jumping headbutt
 rapid jumping finger
 rapid jumping butt
-rapid jumping leg smash
+rapid jumping leg poke
 rapid jumping foot
 rapid jumping kick
 rapid jumping roundhouse
 rapid jumping round house
-rapid jumping axe kick smash
+rapid jumping axe kick move
 rapid jumping axekick
 rapid jumping heel
 rapid jumping sweep
@@ -7050,27 +5933,27 @@ rapid bouncing shove
 rapid bouncing push
 rapid bouncing elbow
 rapid bouncing shoulder
-rapid bouncing tackle poke
+rapid bouncing tackle move
 rapid bouncing body
 rapid bouncing head
 rapid bouncing headbutt
 rapid bouncing finger
-rapid bouncing butt strike
+rapid bouncing butt jab
 rapid bouncing leg
 rapid bouncing foot
 rapid bouncing kick
 rapid bouncing roundhouse
-rapid bouncing round house smash
+rapid bouncing round house strike
 rapid bouncing axe kick
 rapid bouncing axekick
 rapid bouncing heel
 rapid bouncing sweep
-rapid bouncing slide check
+rapid bouncing slide strike
 rapid bouncing knee
 rapid hopping punch
 rapid hopping jab
 rapid hopping palm
-rapid hopping fist jab
+rapid hopping fist check
 rapid hopping uppercut
 rapid hopping hand
 rapid hopping chop
@@ -7080,7 +5963,7 @@ rapid hopping swing
 rapid hopping shove
 rapid hopping push
 rapid hopping elbow
-rapid hopping shoulder poke
+rapid hopping shoulder strike
 rapid hopping tackle
 rapid hopping body
 rapid hopping head
@@ -7095,7 +5978,7 @@ rapid hopping round house
 rapid hopping axe kick
 rapid hopping axekick
 rapid hopping heel
-rapid hopping sweep jab
+rapid hopping sweep smash
 rapid hopping slide
 rapid hopping knee
 rapid running punch
@@ -7105,17 +5988,17 @@ rapid running fist
 rapid running uppercut
 rapid running hand
 rapid running chop
-rapid running slap poke
+rapid running slap move
 rapid running armbar
 rapid running swing
 rapid running shove
 rapid running push
-rapid running elbow poke
+rapid running elbow smash
 rapid running shoulder
 rapid running tackle
 rapid running body
 rapid running head
-rapid running headbutt check
+rapid running headbutt move
 rapid running finger
 rapid running butt
 rapid running leg
@@ -7125,12 +6008,12 @@ rapid running roundhouse
 rapid running round house
 rapid running axe kick
 rapid running axekick
-rapid running heel poke
+rapid running heel move
 rapid running sweep
 rapid running slide
 rapid running knee
 rapid spinning punch
-rapid spinning jab smash
+rapid spinning jab check
 rapid spinning palm
 rapid spinning fist
 rapid spinning uppercut
@@ -7145,22 +6028,22 @@ rapid spinning elbow
 rapid spinning shoulder
 rapid spinning tackle
 rapid spinning body
-rapid spinning head poke
+rapid spinning head move
 rapid spinning headbutt
 rapid spinning finger
 rapid spinning butt
 rapid spinning leg
-rapid spinning foot poke
+rapid spinning foot strike
 rapid spinning kick
 rapid spinning roundhouse
 rapid spinning round house
 rapid spinning axe kick
-rapid spinning axekick smash
+rapid spinning axekick poke
 rapid spinning heel
 rapid spinning sweep
 rapid spinning slide
 rapid spinning knee
-rapid approaching punch smash
+rapid approaching punch jab
 rapid approaching jab
 rapid approaching palm
 rapid approaching fist
@@ -7170,7 +6053,7 @@ rapid approaching chop
 rapid approaching slap
 rapid approaching armbar
 rapid approaching swing
-rapid approaching shove check
+rapid approaching shove poke
 rapid approaching push
 rapid approaching elbow
 rapid approaching shoulder
@@ -7180,12 +6063,12 @@ rapid approaching head
 rapid approaching headbutt
 rapid approaching finger
 rapid approaching butt
-rapid approaching leg move
+rapid approaching leg jab
 rapid approaching foot
 rapid approaching kick
 rapid approaching roundhouse
 rapid approaching round house
-rapid approaching axe kick check
+rapid approaching axe kick strike
 rapid approaching axekick
 rapid approaching heel
 rapid approaching sweep
@@ -7195,7 +6078,7 @@ rapid advancing punch
 rapid advancing jab
 rapid advancing palm
 rapid advancing fist
-rapid advancing uppercut poke
+rapid advancing uppercut jab
 rapid advancing hand
 rapid advancing chop
 rapid advancing slap
@@ -7205,7 +6088,7 @@ rapid advancing shove
 rapid advancing push
 rapid advancing elbow
 rapid advancing shoulder
-rapid advancing tackle poke
+rapid advancing tackle smash
 rapid advancing body
 rapid advancing head
 rapid advancing headbutt
@@ -7215,7 +6098,7 @@ rapid advancing leg
 rapid advancing foot
 rapid advancing kick
 rapid advancing roundhouse
-rapid advancing round house poke
+rapid advancing round house jab
 rapid advancing axe kick
 rapid advancing axekick
 rapid advancing heel
@@ -7230,12 +6113,12 @@ rapid forward moving uppercut
 rapid forward moving hand
 rapid forward moving chop
 rapid forward moving slap
-rapid forward moving armbar strike
+rapid forward moving armbar check
 rapid forward moving swing
 rapid forward moving shove
 rapid forward moving push
 rapid forward moving elbow
-rapid forward moving shoulder poke
+rapid forward moving shoulder smash
 rapid forward moving tackle
 rapid forward moving body
 rapid forward moving head
@@ -7245,17 +6128,17 @@ rapid forward moving butt
 rapid forward moving leg
 rapid forward moving foot
 rapid forward moving kick
-rapid forward moving roundhouse move
+rapid forward moving roundhouse smash
 rapid forward moving round house
 rapid forward moving axe kick
 rapid forward moving axekick
 rapid forward moving heel
-rapid forward moving sweep move
+rapid forward moving sweep smash
 rapid forward moving slide
 rapid forward moving knee
 rapid backwards moving punch
 rapid backwards moving jab
-rapid backwards moving palm smash
+rapid backwards moving palm poke
 rapid backwards moving fist
 rapid backwards moving uppercut
 rapid backwards moving hand
@@ -7265,22 +6148,22 @@ rapid backwards moving armbar
 rapid backwards moving swing
 rapid backwards moving shove
 rapid backwards moving push
-rapid backwards moving elbow move
+rapid backwards moving elbow smash
 rapid backwards moving shoulder
 rapid backwards moving tackle
 rapid backwards moving body
 rapid backwards moving head
-rapid backwards moving headbutt strike
+rapid backwards moving headbutt smash
 rapid backwards moving finger
 rapid backwards moving butt
 rapid backwards moving leg
 rapid backwards moving foot
-rapid backwards moving kick smash
+rapid backwards moving kick jab
 rapid backwards moving roundhouse
 rapid backwards moving round house
 rapid backwards moving axe kick
 rapid backwards moving axekick
-rapid backwards moving heel smash
+rapid backwards moving heel poke
 rapid backwards moving sweep
 rapid backwards moving slide
 rapid backwards moving knee
@@ -7290,7 +6173,7 @@ rapid backwards palm
 rapid backwards fist
 rapid backwards uppercut
 rapid backwards hand
-rapid backwards chop jab
+rapid backwards chop smash
 rapid backwards slap
 rapid backwards armbar
 rapid backwards swing
@@ -7300,107 +6183,107 @@ rapid backwards elbow
 rapid backwards shoulder
 rapid backwards tackle
 rapid backwards body
-rapid backwards head poke
+rapid backwards head check
 rapid backwards headbutt
 rapid backwards finger
 rapid backwards butt
 rapid backwards leg
-rapid backwards foot smash
+rapid backwards foot jab
 rapid backwards kick
 rapid backwards roundhouse
 rapid backwards round house
 rapid backwards axe kick
-rapid backwards axekick move
+rapid backwards axekick poke
 rapid backwards heel
 rapid backwards sweep
 rapid backwards slide
 rapid backwards knee
-rapid retreating punch smash
+rapid retreating punch poke
 rapid retreating jab
 rapid retreating palm
 rapid retreating fist
 rapid retreating uppercut
-rapid retreating hand jab
+rapid retreating hand strike
 rapid retreating chop
 rapid retreating slap
 rapid retreating armbar
 rapid retreating swing
-rapid retreating shove jab
+rapid retreating shove poke
 rapid retreating push
 rapid retreating elbow
 rapid retreating shoulder
 rapid retreating tackle
-rapid retreating body strike
+rapid retreating body jab
 rapid retreating head
 rapid retreating headbutt
 rapid retreating finger
 rapid retreating butt
-rapid retreating leg move
+rapid retreating leg poke
 rapid retreating foot
 rapid retreating kick
 rapid retreating roundhouse
 rapid retreating round house
-rapid retreating axe kick poke
+rapid retreating axe kick jab
 rapid retreating axekick
 rapid retreating heel
 rapid retreating sweep
 rapid retreating slide
-rapid retreating knee strike
+rapid retreating knee poke
 rapid dodging punch
 rapid dodging jab
 rapid dodging palm
 rapid dodging fist
-rapid dodging uppercut poke
+rapid dodging uppercut jab
 rapid dodging hand
 rapid dodging chop
 rapid dodging slap
 rapid dodging armbar
-rapid dodging swing check
+rapid dodging swing smash
 rapid dodging shove
 rapid dodging push
 rapid dodging elbow
 rapid dodging shoulder
-rapid dodging tackle move
+rapid dodging tackle strike
 rapid dodging body
 rapid dodging head
 rapid dodging headbutt
 rapid dodging finger
-rapid dodging butt check
+rapid dodging butt poke
 rapid dodging leg
 rapid dodging foot
 rapid dodging kick
 rapid dodging roundhouse
-rapid dodging round house strike
+rapid dodging round house jab
 rapid dodging axe kick
 rapid dodging axekick
 rapid dodging heel
 rapid dodging sweep
-rapid dodging slide smash
+rapid dodging slide check
 rapid dodging knee
 rapid evading punch
 rapid evading jab
 rapid evading palm
-rapid evading fist check
+rapid evading fist poke
 rapid evading uppercut
 rapid evading hand
 rapid evading chop
 rapid evading slap
-rapid evading armbar smash
+rapid evading armbar check
 rapid evading swing
 rapid evading shove
 rapid evading push
 rapid evading elbow
-rapid evading shoulder move
+rapid evading shoulder check
 rapid evading tackle
 rapid evading body
 rapid evading head
 rapid evading headbutt
-rapid evading finger strike
+rapid evading finger check
 rapid evading butt
 rapid evading leg
 rapid evading foot
 rapid evading kick
-rapid evading roundhouse smash
+rapid evading roundhouse move
 rapid evading round house
 rapid evading axe kick
 rapid evading axekick
@@ -7410,7 +6293,7 @@ rapid evading slide
 rapid evading knee
 rapid flying punch
 rapid flying jab
-rapid flying palm smash
+rapid flying palm strike
 rapid flying fist
 rapid flying uppercut
 rapid flying hand
@@ -7430,12 +6313,12 @@ rapid flying finger
 rapid flying butt
 rapid flying leg
 rapid flying foot
-rapid flying kick strike
+rapid flying kick move
 rapid flying roundhouse
 rapid flying round house
 rapid flying axe kick
 rapid flying axekick
-rapid flying heel move
+rapid flying heel strike
 rapid flying sweep
 rapid flying slide
 rapid flying knee
@@ -7445,12 +6328,12 @@ rapid rolling palm
 rapid rolling fist
 rapid rolling uppercut
 rapid rolling hand
-rapid rolling chop jab
+rapid rolling chop poke
 rapid rolling slap
 rapid rolling armbar
 rapid rolling swing
 rapid rolling shove
-rapid rolling push jab
+rapid rolling push check
 rapid rolling elbow
 rapid rolling shoulder
 rapid rolling tackle
@@ -7460,7 +6343,7 @@ rapid rolling headbutt
 rapid rolling finger
 rapid rolling butt
 rapid rolling leg
-rapid rolling foot smash
+rapid rolling foot move
 rapid rolling kick
 rapid rolling roundhouse
 rapid rolling round house
@@ -7470,57 +6353,57 @@ rapid rolling heel
 rapid rolling sweep
 rapid rolling slide
 rapid rolling knee
-rapid sliding punch strike
+rapid sliding punch move
 rapid sliding jab
 rapid sliding palm
 rapid sliding fist
 rapid sliding uppercut
-rapid sliding hand check
+rapid sliding hand jab
 rapid sliding chop
 rapid sliding slap
 rapid sliding armbar
 rapid sliding swing
-rapid sliding shove move
+rapid sliding shove jab
 rapid sliding push
 rapid sliding elbow
 rapid sliding shoulder
 rapid sliding tackle
-rapid sliding body move
+rapid sliding body jab
 rapid sliding head
 rapid sliding headbutt
 rapid sliding finger
 rapid sliding butt
-rapid sliding leg check
+rapid sliding leg move
 rapid sliding foot
 rapid sliding kick
 rapid sliding roundhouse
 rapid sliding round house
-rapid sliding axe kick jab
+rapid sliding axe kick strike
 rapid sliding axekick
 rapid sliding heel
 rapid sliding sweep
 rapid sliding slide
-rapid sliding knee jab
+rapid sliding knee strike
 rapid overhead punch
 rapid overhead jab
 rapid overhead palm
 rapid overhead fist
-rapid overhead uppercut strike
+rapid overhead uppercut smash
 rapid overhead hand
 rapid overhead chop
 rapid overhead slap
 rapid overhead armbar
-rapid overhead swing check
+rapid overhead swing move
 rapid overhead shove
 rapid overhead push
 rapid overhead elbow
 rapid overhead shoulder
-rapid overhead tackle check
+rapid overhead tackle smash
 rapid overhead body
 rapid overhead head
 rapid overhead headbutt
 rapid overhead finger
-rapid overhead butt check
+rapid overhead butt smash
 rapid overhead leg
 rapid overhead foot
 rapid overhead kick
@@ -7530,42 +6413,42 @@ rapid overhead axe kick
 rapid overhead axekick
 rapid overhead heel
 rapid overhead sweep
-rapid overhead slide smash
+rapid overhead slide move
 rapid overhead knee
 rapid downwards punch
 rapid downwards jab
 rapid downwards palm
-rapid downwards fist jab
+rapid downwards fist strike
 rapid downwards uppercut
 rapid downwards hand
 rapid downwards chop
 rapid downwards slap
-rapid downwards armbar jab
+rapid downwards armbar smash
 rapid downwards swing
 rapid downwards shove
 rapid downwards push
 rapid downwards elbow
-rapid downwards shoulder strike
+rapid downwards shoulder poke
 rapid downwards tackle
 rapid downwards body
 rapid downwards head
 rapid downwards headbutt
-rapid downwards finger strike
+rapid downwards finger poke
 rapid downwards butt
 rapid downwards leg
 rapid downwards foot
 rapid downwards kick
-rapid downwards roundhouse smash
+rapid downwards roundhouse check
 rapid downwards round house
 rapid downwards axe kick
 rapid downwards axekick
 rapid downwards heel
-rapid downwards sweep move
+rapid downwards sweep poke
 rapid downwards slide
 rapid downwards knee
 rapid rising punch
 rapid rising jab
-rapid rising palm jab
+rapid rising palm poke
 rapid rising fist
 rapid rising uppercut
 rapid rising hand
@@ -7575,7 +6458,7 @@ rapid rising armbar
 rapid rising swing
 rapid rising shove
 rapid rising push
-rapid rising elbow check
+rapid rising elbow strike
 rapid rising shoulder
 rapid rising tackle
 rapid rising body
@@ -7585,17 +6468,17 @@ rapid rising finger
 rapid rising butt
 rapid rising leg
 rapid rising foot
-rapid rising kick smash
+rapid rising kick jab
 rapid rising roundhouse
 rapid rising round house
 rapid rising axe kick
 rapid rising axekick
-rapid rising heel smash
+rapid rising heel poke
 rapid rising sweep
 rapid rising slide
 rapid rising knee
 rapid forward punch
-rapid forward jab smash
+rapid forward jab strike
 rapid forward palm
 rapid forward fist
 rapid forward uppercut
@@ -7605,1287 +6488,47 @@ rapid forward slap
 rapid forward armbar
 rapid forward swing
 rapid forward shove
-rapid forward push check
+rapid forward push strike
 rapid forward elbow
 rapid forward shoulder
 rapid forward tackle
 rapid forward body
-rapid forward head check
+rapid forward head jab
 rapid forward headbutt
 rapid forward finger
 rapid forward butt
 rapid forward leg
-rapid forward foot move
+rapid forward foot smash
 rapid forward kick
 rapid forward roundhouse
 rapid forward round house
 rapid forward axe kick
-rapid forward axekick poke
+rapid forward axekick move
 rapid forward heel
 rapid forward sweep
 rapid forward slide
 rapid forward knee
-nimble jumping punch smash
-nimble jumping jab
-nimble jumping palm
-nimble jumping fist
-nimble jumping uppercut
-nimble jumping hand move
-nimble jumping chop
-nimble jumping slap
-nimble jumping armbar
-nimble jumping swing
-nimble jumping shove poke
-nimble jumping push
-nimble jumping elbow
-nimble jumping shoulder
-nimble jumping tackle
-nimble jumping body smash
-nimble jumping head
-nimble jumping headbutt
-nimble jumping finger
-nimble jumping butt
-nimble jumping leg smash
-nimble jumping foot
-nimble jumping kick
-nimble jumping roundhouse
-nimble jumping round house
-nimble jumping axe kick strike
-nimble jumping axekick
-nimble jumping heel
-nimble jumping sweep
-nimble jumping slide
-nimble jumping knee smash
-nimble bouncing punch
-nimble bouncing jab
-nimble bouncing palm
-nimble bouncing fist
-nimble bouncing uppercut strike
-nimble bouncing hand
-nimble bouncing chop
-nimble bouncing slap
-nimble bouncing armbar
-nimble bouncing swing move
-nimble bouncing shove
-nimble bouncing push
-nimble bouncing elbow
-nimble bouncing shoulder
-nimble bouncing tackle strike
-nimble bouncing body
-nimble bouncing head
-nimble bouncing headbutt
-nimble bouncing finger
-nimble bouncing butt move
-nimble bouncing leg
-nimble bouncing foot
-nimble bouncing kick
-nimble bouncing roundhouse
-nimble bouncing round house move
-nimble bouncing axe kick
-nimble bouncing axekick
-nimble bouncing heel
-nimble bouncing sweep
-nimble bouncing slide poke
-nimble bouncing knee
-nimble hopping punch
-nimble hopping jab
-nimble hopping palm
-nimble hopping fist move
-nimble hopping uppercut
-nimble hopping hand
-nimble hopping chop
-nimble hopping slap
-nimble hopping armbar jab
-nimble hopping swing
-nimble hopping shove
-nimble hopping push
-nimble hopping elbow
-nimble hopping shoulder strike
-nimble hopping tackle
-nimble hopping body
-nimble hopping head
-nimble hopping headbutt
-nimble hopping finger check
-nimble hopping butt
-nimble hopping leg
-nimble hopping foot
-nimble hopping kick
-nimble hopping roundhouse check
-nimble hopping round house
-nimble hopping axe kick
-nimble hopping axekick
-nimble hopping heel
-nimble hopping sweep jab
-nimble hopping slide
-nimble hopping knee
-nimble running punch
-nimble running jab
-nimble running palm strike
-nimble running fist
-nimble running uppercut
-nimble running hand
-nimble running chop
-nimble running slap check
-nimble running armbar
-nimble running swing
-nimble running shove
-nimble running push
-nimble running elbow poke
-nimble running shoulder
-nimble running tackle
-nimble running body
-nimble running head
-nimble running headbutt jab
-nimble running finger
-nimble running butt
-nimble running leg
-nimble running foot
-nimble running kick strike
-nimble running roundhouse
-nimble running round house
-nimble running axe kick
-nimble running axekick
-nimble running heel jab
-nimble running sweep
-nimble running slide
-nimble running knee
-nimble spinning punch
-nimble spinning jab move
-nimble spinning palm
-nimble spinning fist
-nimble spinning uppercut
-nimble spinning hand
-nimble spinning chop move
-nimble spinning slap
-nimble spinning armbar
-nimble spinning swing
-nimble spinning shove
-nimble spinning push smash
-nimble spinning elbow
-nimble spinning shoulder
-nimble spinning tackle
-nimble spinning body
-nimble spinning head smash
-nimble spinning headbutt
-nimble spinning finger
-nimble spinning butt
-nimble spinning leg
-nimble spinning foot move
-nimble spinning kick
-nimble spinning roundhouse
-nimble spinning round house
-nimble spinning axe kick
-nimble spinning axekick jab
-nimble spinning heel
-nimble spinning sweep
-nimble spinning slide
-nimble spinning knee
-nimble approaching punch poke
-nimble approaching jab
-nimble approaching palm
-nimble approaching fist
-nimble approaching uppercut
-nimble approaching hand strike
-nimble approaching chop
-nimble approaching slap
-nimble approaching armbar
-nimble approaching swing
-nimble approaching shove poke
-nimble approaching push
-nimble approaching elbow
-nimble approaching shoulder
-nimble approaching tackle
-nimble approaching body move
-nimble approaching head
-nimble approaching headbutt
-nimble approaching finger
-nimble approaching butt
-nimble approaching leg smash
-nimble approaching foot
-nimble approaching kick
-nimble approaching roundhouse
-nimble approaching round house
-nimble approaching axe kick smash
-nimble approaching axekick
-nimble approaching heel
-nimble approaching sweep
-nimble approaching slide
-nimble approaching knee check
-nimble advancing punch
-nimble advancing jab
-nimble advancing palm
-nimble advancing fist
-nimble advancing uppercut check
-nimble advancing hand
-nimble advancing chop
-nimble advancing slap
-nimble advancing armbar
-nimble advancing swing strike
-nimble advancing shove
-nimble advancing push
-nimble advancing elbow
-nimble advancing shoulder
-nimble advancing tackle move
-nimble advancing body
-nimble advancing head
-nimble advancing headbutt
-nimble advancing finger
-nimble advancing butt check
-nimble advancing leg
-nimble advancing foot
-nimble advancing kick
-nimble advancing roundhouse
-nimble advancing round house strike
-nimble advancing axe kick
-nimble advancing axekick
-nimble advancing heel
-nimble advancing sweep
-nimble advancing slide poke
-nimble advancing knee
-nimble forward moving punch
-nimble forward moving jab
-nimble forward moving palm
-nimble forward moving fist jab
-nimble forward moving uppercut
-nimble forward moving hand
-nimble forward moving chop
-nimble forward moving slap
-nimble forward moving armbar move
-nimble forward moving swing
-nimble forward moving shove
-nimble forward moving push
-nimble forward moving elbow
-nimble forward moving shoulder check
-nimble forward moving tackle
-nimble forward moving body
-nimble forward moving head
-nimble forward moving headbutt
-nimble forward moving finger jab
-nimble forward moving butt
-nimble forward moving leg
-nimble forward moving foot
-nimble forward moving kick
-nimble forward moving roundhouse check
-nimble forward moving round house
-nimble forward moving axe kick
-nimble forward moving axekick
-nimble forward moving heel
-nimble forward moving sweep poke
-nimble forward moving slide
-nimble forward moving knee
-nimble backwards moving punch
-nimble backwards moving jab
-nimble backwards moving palm strike
-nimble backwards moving fist
-nimble backwards moving uppercut
-nimble backwards moving hand
-nimble backwards moving chop
-nimble backwards moving slap check
-nimble backwards moving armbar
-nimble backwards moving swing
-nimble backwards moving shove
-nimble backwards moving push
-nimble backwards moving elbow poke
-nimble backwards moving shoulder
-nimble backwards moving tackle
-nimble backwards moving body
-nimble backwards moving head
-nimble backwards moving headbutt strike
-nimble backwards moving finger
-nimble backwards moving butt
-nimble backwards moving leg
-nimble backwards moving foot
-nimble backwards moving kick poke
-nimble backwards moving roundhouse
-nimble backwards moving round house
-nimble backwards moving axe kick
-nimble backwards moving axekick
-nimble backwards moving heel strike
-nimble backwards moving sweep
-nimble backwards moving slide
-nimble backwards moving knee
-nimble backwards punch
-nimble backwards jab strike
-nimble backwards palm
-nimble backwards fist
-nimble backwards uppercut
-nimble backwards hand
-nimble backwards chop poke
-nimble backwards slap
-nimble backwards armbar
-nimble backwards swing
-nimble backwards shove
-nimble backwards push smash
-nimble backwards elbow
-nimble backwards shoulder
-nimble backwards tackle
-nimble backwards body
-nimble backwards head check
-nimble backwards headbutt
-nimble backwards finger
-nimble backwards butt
-nimble backwards leg
-nimble backwards foot strike
-nimble backwards kick
-nimble backwards roundhouse
-nimble backwards round house
-nimble backwards axe kick
-nimble backwards axekick strike
-nimble backwards heel
-nimble backwards sweep
-nimble backwards slide
-nimble backwards knee
-nimble retreating punch jab
-nimble retreating jab
-nimble retreating palm
-nimble retreating fist
-nimble retreating uppercut
-nimble retreating hand smash
-nimble retreating chop
-nimble retreating slap
-nimble retreating armbar
-nimble retreating swing
-nimble retreating shove jab
-nimble retreating push
-nimble retreating elbow
-nimble retreating shoulder
-nimble retreating tackle
-nimble retreating body move
-nimble retreating head
-nimble retreating headbutt
-nimble retreating finger
-nimble retreating butt
-nimble retreating leg move
-nimble retreating foot
-nimble retreating kick
-nimble retreating roundhouse
-nimble retreating round house
-nimble retreating axe kick strike
-nimble retreating axekick
-nimble retreating heel
-nimble retreating sweep
-nimble retreating slide
-nimble retreating knee move
-nimble dodging punch
-nimble dodging jab
-nimble dodging palm
-nimble dodging fist
-nimble dodging uppercut jab
-nimble dodging hand
-nimble dodging chop
-nimble dodging slap
-nimble dodging armbar
-nimble dodging swing check
-nimble dodging shove
-nimble dodging push
-nimble dodging elbow
-nimble dodging shoulder
-nimble dodging tackle strike
-nimble dodging body
-nimble dodging head
-nimble dodging headbutt
-nimble dodging finger
-nimble dodging butt strike
-nimble dodging leg
-nimble dodging foot
-nimble dodging kick
-nimble dodging roundhouse
-nimble dodging round house poke
-nimble dodging axe kick
-nimble dodging axekick
-nimble dodging heel
-nimble dodging sweep
-nimble dodging slide strike
-nimble dodging knee
-nimble evading punch
-nimble evading jab
-nimble evading palm
-nimble evading fist check
-nimble evading uppercut
-nimble evading hand
-nimble evading chop
-nimble evading slap
-nimble evading armbar poke
-nimble evading swing
-nimble evading shove
-nimble evading push
-nimble evading elbow
-nimble evading shoulder poke
-nimble evading tackle
-nimble evading body
-nimble evading head
-nimble evading headbutt
-nimble evading finger smash
-nimble evading butt
-nimble evading leg
-nimble evading foot
-nimble evading kick
-nimble evading roundhouse smash
-nimble evading round house
-nimble evading axe kick
-nimble evading axekick
-nimble evading heel
-nimble evading sweep smash
-nimble evading slide
-nimble evading knee
-nimble flying punch
-nimble flying jab
-nimble flying palm smash
-nimble flying fist
-nimble flying uppercut
-nimble flying hand
-nimble flying chop
-nimble flying slap poke
-nimble flying armbar
-nimble flying swing
-nimble flying shove
-nimble flying push
-nimble flying elbow check
-nimble flying shoulder
-nimble flying tackle
-nimble flying body
-nimble flying head
-nimble flying headbutt poke
-nimble flying finger
-nimble flying butt
-nimble flying leg
-nimble flying foot
-nimble flying kick check
-nimble flying roundhouse
-nimble flying round house
-nimble flying axe kick
-nimble flying axekick
-nimble flying heel strike
-nimble flying sweep
-nimble flying slide
-nimble flying knee
-nimble rolling punch
-nimble rolling jab smash
-nimble rolling palm
-nimble rolling fist
-nimble rolling uppercut
-nimble rolling hand
-nimble rolling chop smash
-nimble rolling slap
-nimble rolling armbar
-nimble rolling swing
-nimble rolling shove
-nimble rolling push strike
-nimble rolling elbow
-nimble rolling shoulder
-nimble rolling tackle
-nimble rolling body
-nimble rolling head check
-nimble rolling headbutt
-nimble rolling finger
-nimble rolling butt
-nimble rolling leg
-nimble rolling foot move
-nimble rolling kick
-nimble rolling roundhouse
-nimble rolling round house
-nimble rolling axe kick
-nimble rolling axekick smash
-nimble rolling heel
-nimble rolling sweep
-nimble rolling slide
-nimble rolling knee
-nimble sliding punch strike
-nimble sliding jab
-nimble sliding palm
-nimble sliding fist
-nimble sliding uppercut
-nimble sliding hand check
-nimble sliding chop
-nimble sliding slap
-nimble sliding armbar
-nimble sliding swing
-nimble sliding shove smash
-nimble sliding push
-nimble sliding elbow
-nimble sliding shoulder
-nimble sliding tackle
-nimble sliding body jab
-nimble sliding head
-nimble sliding headbutt
-nimble sliding finger
-nimble sliding butt
-nimble sliding leg poke
-nimble sliding foot
-nimble sliding kick
-nimble sliding roundhouse
-nimble sliding round house
-nimble sliding axe kick poke
-nimble sliding axekick
-nimble sliding heel
-nimble sliding sweep
-nimble sliding slide
-nimble sliding knee jab
-nimble overhead punch
-nimble overhead jab
-nimble overhead palm
-nimble overhead fist
-nimble overhead uppercut smash
-nimble overhead hand
-nimble overhead chop
-nimble overhead slap
-nimble overhead armbar
-nimble overhead swing strike
-nimble overhead shove
-nimble overhead push
-nimble overhead elbow
-nimble overhead shoulder
-nimble overhead tackle strike
-nimble overhead body
-nimble overhead head
-nimble overhead headbutt
-nimble overhead finger
-nimble overhead butt poke
-nimble overhead leg
-nimble overhead foot
-nimble overhead kick
-nimble overhead roundhouse
-nimble overhead round house smash
-nimble overhead axe kick
-nimble overhead axekick
-nimble overhead heel
-nimble overhead sweep
-nimble overhead slide jab
-nimble overhead knee
-nimble downwards punch
-nimble downwards jab
-nimble downwards palm
-nimble downwards fist check
-nimble downwards uppercut
-nimble downwards hand
-nimble downwards chop
-nimble downwards slap
-nimble downwards armbar poke
-nimble downwards swing
-nimble downwards shove
-nimble downwards push
-nimble downwards elbow
-nimble downwards shoulder poke
-nimble downwards tackle
-nimble downwards body
-nimble downwards head
-nimble downwards headbutt
-nimble downwards finger move
-nimble downwards butt
-nimble downwards leg
-nimble downwards foot
-nimble downwards kick
-nimble downwards roundhouse move
-nimble downwards round house
-nimble downwards axe kick
-nimble downwards axekick
-nimble downwards heel
-nimble downwards sweep poke
-nimble downwards slide
-nimble downwards knee
-nimble rising punch
-nimble rising jab
-nimble rising palm check
-nimble rising fist
-nimble rising uppercut
-nimble rising hand
-nimble rising chop
-nimble rising slap strike
-nimble rising armbar
-nimble rising swing
-nimble rising shove
-nimble rising push
-nimble rising elbow jab
-nimble rising shoulder
-nimble rising tackle
-nimble rising body
-nimble rising head
-nimble rising headbutt poke
-nimble rising finger
-nimble rising butt
-nimble rising leg
-nimble rising foot
-nimble rising kick move
-nimble rising roundhouse
-nimble rising round house
-nimble rising axe kick
-nimble rising axekick
-nimble rising heel poke
-nimble rising sweep
-nimble rising slide
-nimble rising knee
-nimble forward punch
-nimble forward jab strike
-nimble forward palm
-nimble forward fist
-nimble forward uppercut
-nimble forward hand
-nimble forward chop jab
-nimble forward slap
-nimble forward armbar
-nimble forward swing
-nimble forward shove
-nimble forward push poke
-nimble forward elbow
-nimble forward shoulder
-nimble forward tackle
-nimble forward body
-nimble forward head jab
-nimble forward headbutt
-nimble forward finger
-nimble forward butt
-nimble forward leg
-nimble forward foot strike
-nimble forward kick
-nimble forward roundhouse
-nimble forward round house
-nimble forward axe kick
-nimble forward axekick smash
-nimble forward heel
-nimble forward sweep
-nimble forward slide
-nimble forward knee
-speedy jumping punch poke
-speedy jumping jab
-speedy jumping palm
-speedy jumping fist
-speedy jumping uppercut
-speedy jumping hand strike
-speedy jumping chop
-speedy jumping slap
-speedy jumping armbar
-speedy jumping swing
-speedy jumping shove jab
-speedy jumping push
-speedy jumping elbow
-speedy jumping shoulder
-speedy jumping tackle
-speedy jumping body jab
-speedy jumping head
-speedy jumping headbutt
-speedy jumping finger
-speedy jumping butt
-speedy jumping leg jab
-speedy jumping foot
-speedy jumping kick
-speedy jumping roundhouse
-speedy jumping round house
-speedy jumping axe kick poke
-speedy jumping axekick
-speedy jumping heel
-speedy jumping sweep
-speedy jumping slide
-speedy jumping knee strike
-speedy bouncing punch
-speedy bouncing jab
-speedy bouncing palm
-speedy bouncing fist
-speedy bouncing uppercut move
-speedy bouncing hand
-speedy bouncing chop
-speedy bouncing slap
-speedy bouncing armbar
-speedy bouncing swing smash
-speedy bouncing shove
-speedy bouncing push
-speedy bouncing elbow
-speedy bouncing shoulder
-speedy bouncing tackle strike
-speedy bouncing body
-speedy bouncing head
-speedy bouncing headbutt
-speedy bouncing finger
-speedy bouncing butt poke
-speedy bouncing leg
-speedy bouncing foot
-speedy bouncing kick
-speedy bouncing roundhouse
-speedy bouncing round house move
-speedy bouncing axe kick
-speedy bouncing axekick
-speedy bouncing heel
-speedy bouncing sweep
-speedy bouncing slide poke
-speedy bouncing knee
-speedy hopping punch
-speedy hopping jab
-speedy hopping palm
-speedy hopping fist smash
-speedy hopping uppercut
-speedy hopping hand
-speedy hopping chop
-speedy hopping slap
-speedy hopping armbar strike
-speedy hopping swing
-speedy hopping shove
-speedy hopping push
-speedy hopping elbow
-speedy hopping shoulder smash
-speedy hopping tackle
-speedy hopping body
-speedy hopping head
-speedy hopping headbutt
-speedy hopping finger poke
-speedy hopping butt
-speedy hopping leg
-speedy hopping foot
-speedy hopping kick
-speedy hopping roundhouse smash
-speedy hopping round house
-speedy hopping axe kick
-speedy hopping axekick
-speedy hopping heel
-speedy hopping sweep jab
-speedy hopping slide
-speedy hopping knee
-speedy running punch
-speedy running jab
-speedy running palm check
-speedy running fist
-speedy running uppercut
-speedy running hand
-speedy running chop
-speedy running slap jab
-speedy running armbar
-speedy running swing
-speedy running shove
-speedy running push
-speedy running elbow jab
-speedy running shoulder
-speedy running tackle
-speedy running body
-speedy running head
-speedy running headbutt smash
-speedy running finger
-speedy running butt
-speedy running leg
-speedy running foot
-speedy running kick jab
-speedy running roundhouse
-speedy running round house
-speedy running axe kick
-speedy running axekick
-speedy running heel check
-speedy running sweep
-speedy running slide
-speedy running knee
-speedy spinning punch
-speedy spinning jab smash
-speedy spinning palm
-speedy spinning fist
-speedy spinning uppercut
-speedy spinning hand
-speedy spinning chop check
-speedy spinning slap
-speedy spinning armbar
-speedy spinning swing
-speedy spinning shove
-speedy spinning push poke
-speedy spinning elbow
-speedy spinning shoulder
-speedy spinning tackle
-speedy spinning body
-speedy spinning head jab
-speedy spinning headbutt
-speedy spinning finger
-speedy spinning butt
-speedy spinning leg
-speedy spinning foot strike
-speedy spinning kick
-speedy spinning roundhouse
-speedy spinning round house
-speedy spinning axe kick
-speedy spinning axekick jab
-speedy spinning heel
-speedy spinning sweep
-speedy spinning slide
-speedy spinning knee
-speedy approaching punch move
-speedy approaching jab
-speedy approaching palm
-speedy approaching fist
-speedy approaching uppercut
-speedy approaching hand poke
-speedy approaching chop
-speedy approaching slap
-speedy approaching armbar
-speedy approaching swing
-speedy approaching shove move
-speedy approaching push
-speedy approaching elbow
-speedy approaching shoulder
-speedy approaching tackle
-speedy approaching body poke
-speedy approaching head
-speedy approaching headbutt
-speedy approaching finger
-speedy approaching butt
-speedy approaching leg poke
-speedy approaching foot
-speedy approaching kick
-speedy approaching roundhouse
-speedy approaching round house
-speedy approaching axe kick jab
-speedy approaching axekick
-speedy approaching heel
-speedy approaching sweep
-speedy approaching slide
-speedy approaching knee smash
-speedy advancing punch
-speedy advancing jab
-speedy advancing palm
-speedy advancing fist
-speedy advancing uppercut poke
-speedy advancing hand
-speedy advancing chop
-speedy advancing slap
-speedy advancing armbar
-speedy advancing swing check
-speedy advancing shove
-speedy advancing push
-speedy advancing elbow
-speedy advancing shoulder
-speedy advancing tackle jab
-speedy advancing body
-speedy advancing head
-speedy advancing headbutt
-speedy advancing finger
-speedy advancing butt strike
-speedy advancing leg
-speedy advancing foot
-speedy advancing kick
-speedy advancing roundhouse
-speedy advancing round house check
-speedy advancing axe kick
-speedy advancing axekick
-speedy advancing heel
-speedy advancing sweep
-speedy advancing slide move
-speedy advancing knee
-speedy forward moving punch
-speedy forward moving jab
-speedy forward moving palm
-speedy forward moving fist move
-speedy forward moving uppercut
-speedy forward moving hand
-speedy forward moving chop
-speedy forward moving slap
-speedy forward moving armbar check
-speedy forward moving swing
-speedy forward moving shove
-speedy forward moving push
-speedy forward moving elbow
-speedy forward moving shoulder smash
-speedy forward moving tackle
-speedy forward moving body
-speedy forward moving head
-speedy forward moving headbutt
-speedy forward moving finger poke
-speedy forward moving butt
-speedy forward moving leg
-speedy forward moving foot
-speedy forward moving kick
-speedy forward moving roundhouse jab
-speedy forward moving round house
-speedy forward moving axe kick
-speedy forward moving axekick
-speedy forward moving heel
-speedy forward moving sweep jab
-speedy forward moving slide
-speedy forward moving knee
-speedy backwards moving punch
-speedy backwards moving jab
-speedy backwards moving palm poke
-speedy backwards moving fist
-speedy backwards moving uppercut
-speedy backwards moving hand
-speedy backwards moving chop
-speedy backwards moving slap move
-speedy backwards moving armbar
-speedy backwards moving swing
-speedy backwards moving shove
-speedy backwards moving push
-speedy backwards moving elbow smash
-speedy backwards moving shoulder
-speedy backwards moving tackle
-speedy backwards moving body
-speedy backwards moving head
-speedy backwards moving headbutt jab
-speedy backwards moving finger
-speedy backwards moving butt
-speedy backwards moving leg
-speedy backwards moving foot
-speedy backwards moving kick check
-speedy backwards moving roundhouse
-speedy backwards moving round house
-speedy backwards moving axe kick
-speedy backwards moving axekick
-speedy backwards moving heel strike
-speedy backwards moving sweep
-speedy backwards moving slide
-speedy backwards moving knee
-speedy backwards punch
-speedy backwards jab strike
-speedy backwards palm
-speedy backwards fist
-speedy backwards uppercut
-speedy backwards hand
-speedy backwards chop move
-speedy backwards slap
-speedy backwards armbar
-speedy backwards swing
-speedy backwards shove
-speedy backwards push check
-speedy backwards elbow
-speedy backwards shoulder
-speedy backwards tackle
-speedy backwards body
-speedy backwards head jab
-speedy backwards headbutt
-speedy backwards finger
-speedy backwards butt
-speedy backwards leg
-speedy backwards foot move
-speedy backwards kick
-speedy backwards roundhouse
-speedy backwards round house
-speedy backwards axe kick
-speedy backwards axekick move
-speedy backwards heel
-speedy backwards sweep
-speedy backwards slide
-speedy backwards knee
-speedy retreating punch strike
-speedy retreating jab
-speedy retreating palm
-speedy retreating fist
-speedy retreating uppercut
-speedy retreating hand strike
-speedy retreating chop
-speedy retreating slap
-speedy retreating armbar
-speedy retreating swing
-speedy retreating shove poke
-speedy retreating push
-speedy retreating elbow
-speedy retreating shoulder
-speedy retreating tackle
-speedy retreating body poke
-speedy retreating head
-speedy retreating headbutt
-speedy retreating finger
-speedy retreating butt
-speedy retreating leg strike
-speedy retreating foot
-speedy retreating kick
-speedy retreating roundhouse
-speedy retreating round house
-speedy retreating axe kick jab
-speedy retreating axekick
-speedy retreating heel
-speedy retreating sweep
-speedy retreating slide
-speedy retreating knee move
-speedy dodging punch
-speedy dodging jab
-speedy dodging palm
-speedy dodging fist
-speedy dodging uppercut jab
-speedy dodging hand
-speedy dodging chop
-speedy dodging slap
-speedy dodging armbar
-speedy dodging swing jab
-speedy dodging shove
-speedy dodging push
-speedy dodging elbow
-speedy dodging shoulder
-speedy dodging tackle smash
-speedy dodging body
-speedy dodging head
-speedy dodging headbutt
-speedy dodging finger
-speedy dodging butt jab
-speedy dodging leg
-speedy dodging foot
-speedy dodging kick
-speedy dodging roundhouse
-speedy dodging round house strike
-speedy dodging axe kick
-speedy dodging axekick
-speedy dodging heel
-speedy dodging sweep
-speedy dodging slide jab
-speedy dodging knee
-speedy evading punch
-speedy evading jab
-speedy evading palm
-speedy evading fist strike
-speedy evading uppercut
-speedy evading hand
-speedy evading chop
-speedy evading slap
-speedy evading armbar strike
-speedy evading swing
-speedy evading shove
-speedy evading push
-speedy evading elbow
-speedy evading shoulder check
-speedy evading tackle
-speedy evading body
-speedy evading head
-speedy evading headbutt
-speedy evading finger move
-speedy evading butt
-speedy evading leg
-speedy evading foot
-speedy evading kick
-speedy evading roundhouse jab
-speedy evading round house
-speedy evading axe kick
-speedy evading axekick
-speedy evading heel
-speedy evading sweep strike
-speedy evading slide
-speedy evading knee
-speedy flying punch
-speedy flying jab
-speedy flying palm smash
-speedy flying fist
-speedy flying uppercut
-speedy flying hand
-speedy flying chop
-speedy flying slap jab
-speedy flying armbar
-speedy flying swing
-speedy flying shove
-speedy flying push
-speedy flying elbow check
-speedy flying shoulder
-speedy flying tackle
-speedy flying body
-speedy flying head
-speedy flying headbutt check
-speedy flying finger
-speedy flying butt
-speedy flying leg
-speedy flying foot
-speedy flying kick poke
-speedy flying roundhouse
-speedy flying round house
-speedy flying axe kick
-speedy flying axekick
-speedy flying heel strike
-speedy flying sweep
-speedy flying slide
-speedy flying knee
-speedy rolling punch
-speedy rolling jab strike
-speedy rolling palm
-speedy rolling fist
-speedy rolling uppercut
-speedy rolling hand
-speedy rolling chop smash
-speedy rolling slap
-speedy rolling armbar
-speedy rolling swing
-speedy rolling shove
-speedy rolling push strike
-speedy rolling elbow
-speedy rolling shoulder
-speedy rolling tackle
-speedy rolling body
-speedy rolling head move
-speedy rolling headbutt
-speedy rolling finger
-speedy rolling butt
-speedy rolling leg
-speedy rolling foot smash
-speedy rolling kick
-speedy rolling roundhouse
-speedy rolling round house
-speedy rolling axe kick
-speedy rolling axekick smash
-speedy rolling heel
-speedy rolling sweep
-speedy rolling slide
-speedy rolling knee
-speedy sliding punch jab
-speedy sliding jab
-speedy sliding palm
-speedy sliding fist
-speedy sliding uppercut
-speedy sliding hand strike
-speedy sliding chop
-speedy sliding slap
-speedy sliding armbar
-speedy sliding swing
-speedy sliding shove check
-speedy sliding push
-speedy sliding elbow
-speedy sliding shoulder
-speedy sliding tackle
-speedy sliding body jab
-speedy sliding head
-speedy sliding headbutt
-speedy sliding finger
-speedy sliding butt
-speedy sliding leg poke
-speedy sliding foot
-speedy sliding kick
-speedy sliding roundhouse
-speedy sliding round house
-speedy sliding axe kick strike
-speedy sliding axekick
-speedy sliding heel
-speedy sliding sweep
-speedy sliding slide
-speedy sliding knee poke
-speedy overhead punch
-speedy overhead jab
-speedy overhead palm
-speedy overhead fist
-speedy overhead uppercut smash
-speedy overhead hand
-speedy overhead chop
-speedy overhead slap
-speedy overhead armbar
-speedy overhead swing strike
-speedy overhead shove
-speedy overhead push
-speedy overhead elbow
-speedy overhead shoulder
-speedy overhead tackle poke
-speedy overhead body
-speedy overhead head
-speedy overhead headbutt
-speedy overhead finger
-speedy overhead butt jab
-speedy overhead leg
-speedy overhead foot
-speedy overhead kick
-speedy overhead roundhouse
-speedy overhead round house move
-speedy overhead axe kick
-speedy overhead axekick
-speedy overhead heel
-speedy overhead sweep
-speedy overhead slide move
-speedy overhead knee
-speedy downwards punch
-speedy downwards jab
-speedy downwards palm
-speedy downwards fist check
-speedy downwards uppercut
-speedy downwards hand
-speedy downwards chop
-speedy downwards slap
-speedy downwards armbar move
-speedy downwards swing
-speedy downwards shove
-speedy downwards push
-speedy downwards elbow
-speedy downwards shoulder check
-speedy downwards tackle
-speedy downwards body
-speedy downwards head
-speedy downwards headbutt
-speedy downwards finger jab
-speedy downwards butt
-speedy downwards leg
-speedy downwards foot
-speedy downwards kick
-speedy downwards roundhouse poke
-speedy downwards round house
-speedy downwards axe kick
-speedy downwards axekick
-speedy downwards heel
-speedy downwards sweep poke
-speedy downwards slide
-speedy downwards knee
-speedy rising punch
-speedy rising jab
-speedy rising palm move
-speedy rising fist
-speedy rising uppercut
-speedy rising hand
-speedy rising chop
-speedy rising slap check
-speedy rising armbar
-speedy rising swing
-speedy rising shove
-speedy rising push
-speedy rising elbow strike
-speedy rising shoulder
-speedy rising tackle
-speedy rising body
-speedy rising head
-speedy rising headbutt check
-speedy rising finger
-speedy rising butt
-speedy rising leg
-speedy rising foot
-speedy rising kick move
-speedy rising roundhouse
-speedy rising round house
-speedy rising axe kick
-speedy rising axekick
-speedy rising heel check
-speedy rising sweep
-speedy rising slide
-speedy rising knee
-speedy forward punch
-speedy forward jab poke
-speedy forward palm
-speedy forward fist
-speedy forward uppercut
-speedy forward hand
-speedy forward chop move
-speedy forward slap
-speedy forward armbar
-speedy forward swing
-speedy forward shove
-speedy forward push poke
-speedy forward elbow
-speedy forward shoulder
-speedy forward tackle
-speedy forward body
-speedy forward head move
-speedy forward headbutt
-speedy forward finger
-speedy forward butt
-speedy forward leg
-speedy forward foot smash
-speedy forward kick
-speedy forward roundhouse
-speedy forward round house
-speedy forward axe kick
-speedy forward axekick jab
-speedy forward heel
-speedy forward sweep
-speedy forward slide
-speedy forward knee
-reactable jumping punch poke
+reactable jumping punch check
 reactable jumping jab
 reactable jumping palm
 reactable jumping fist
 reactable jumping uppercut
-reactable jumping hand jab
+reactable jumping hand smash
 reactable jumping chop
 reactable jumping slap
 reactable jumping armbar
 reactable jumping swing
-reactable jumping shove smash
+reactable jumping shove jab
 reactable jumping push
 reactable jumping elbow
 reactable jumping shoulder
 reactable jumping tackle
-reactable jumping body jab
+reactable jumping body move
 reactable jumping head
 reactable jumping headbutt
 reactable jumping finger
 reactable jumping butt
-reactable jumping leg jab
+reactable jumping leg smash
 reactable jumping foot
 reactable jumping kick
 reactable jumping roundhouse
@@ -8895,52 +6538,52 @@ reactable jumping axekick
 reactable jumping heel
 reactable jumping sweep
 reactable jumping slide
-reactable jumping knee smash
+reactable jumping knee poke
 reactable bouncing punch
 reactable bouncing jab
 reactable bouncing palm
 reactable bouncing fist
-reactable bouncing uppercut check
+reactable bouncing uppercut smash
 reactable bouncing hand
 reactable bouncing chop
 reactable bouncing slap
 reactable bouncing armbar
-reactable bouncing swing move
+reactable bouncing swing jab
 reactable bouncing shove
 reactable bouncing push
 reactable bouncing elbow
 reactable bouncing shoulder
-reactable bouncing tackle check
+reactable bouncing tackle poke
 reactable bouncing body
 reactable bouncing head
 reactable bouncing headbutt
 reactable bouncing finger
-reactable bouncing butt check
+reactable bouncing butt strike
 reactable bouncing leg
 reactable bouncing foot
 reactable bouncing kick
 reactable bouncing roundhouse
-reactable bouncing round house jab
+reactable bouncing round house smash
 reactable bouncing axe kick
 reactable bouncing axekick
 reactable bouncing heel
 reactable bouncing sweep
-reactable bouncing slide strike
+reactable bouncing slide check
 reactable bouncing knee
 reactable hopping punch
 reactable hopping jab
 reactable hopping palm
-reactable hopping fist poke
+reactable hopping fist jab
 reactable hopping uppercut
 reactable hopping hand
 reactable hopping chop
 reactable hopping slap
-reactable hopping armbar strike
+reactable hopping armbar jab
 reactable hopping swing
 reactable hopping shove
 reactable hopping push
 reactable hopping elbow
-reactable hopping shoulder move
+reactable hopping shoulder poke
 reactable hopping tackle
 reactable hopping body
 reactable hopping head
@@ -8965,22 +6608,22 @@ reactable running fist
 reactable running uppercut
 reactable running hand
 reactable running chop
-reactable running slap move
+reactable running slap poke
 reactable running armbar
 reactable running swing
 reactable running shove
 reactable running push
-reactable running elbow smash
+reactable running elbow poke
 reactable running shoulder
 reactable running tackle
 reactable running body
 reactable running head
-reactable running headbutt jab
+reactable running headbutt check
 reactable running finger
 reactable running butt
 reactable running leg
 reactable running foot
-reactable running kick move
+reactable running kick check
 reactable running roundhouse
 reactable running round house
 reactable running axe kick
@@ -8990,12 +6633,12 @@ reactable running sweep
 reactable running slide
 reactable running knee
 reactable spinning punch
-reactable spinning jab move
+reactable spinning jab smash
 reactable spinning palm
 reactable spinning fist
 reactable spinning uppercut
 reactable spinning hand
-reactable spinning chop strike
+reactable spinning chop check
 reactable spinning slap
 reactable spinning armbar
 reactable spinning swing
@@ -9005,22 +6648,22 @@ reactable spinning elbow
 reactable spinning shoulder
 reactable spinning tackle
 reactable spinning body
-reactable spinning head strike
+reactable spinning head poke
 reactable spinning headbutt
 reactable spinning finger
 reactable spinning butt
 reactable spinning leg
-reactable spinning foot jab
+reactable spinning foot poke
 reactable spinning kick
 reactable spinning roundhouse
 reactable spinning round house
 reactable spinning axe kick
-reactable spinning axekick check
+reactable spinning axekick smash
 reactable spinning heel
 reactable spinning sweep
 reactable spinning slide
 reactable spinning knee
-reactable approaching punch check
+reactable approaching punch smash
 reactable approaching jab
 reactable approaching palm
 reactable approaching fist
@@ -9030,37 +6673,37 @@ reactable approaching chop
 reactable approaching slap
 reactable approaching armbar
 reactable approaching swing
-reactable approaching shove smash
+reactable approaching shove check
 reactable approaching push
 reactable approaching elbow
 reactable approaching shoulder
 reactable approaching tackle
-reactable approaching body jab
+reactable approaching body move
 reactable approaching head
 reactable approaching headbutt
 reactable approaching finger
 reactable approaching butt
-reactable approaching leg strike
+reactable approaching leg move
 reactable approaching foot
 reactable approaching kick
 reactable approaching roundhouse
 reactable approaching round house
-reactable approaching axe kick jab
+reactable approaching axe kick check
 reactable approaching axekick
 reactable approaching heel
 reactable approaching sweep
 reactable approaching slide
-reactable approaching knee strike
+reactable approaching knee check
 reactable advancing punch
 reactable advancing jab
 reactable advancing palm
 reactable advancing fist
-reactable advancing uppercut move
+reactable advancing uppercut poke
 reactable advancing hand
 reactable advancing chop
 reactable advancing slap
 reactable advancing armbar
-reactable advancing swing check
+reactable advancing swing jab
 reactable advancing shove
 reactable advancing push
 reactable advancing elbow
@@ -9075,52 +6718,52 @@ reactable advancing leg
 reactable advancing foot
 reactable advancing kick
 reactable advancing roundhouse
-reactable advancing round house move
+reactable advancing round house poke
 reactable advancing axe kick
 reactable advancing axekick
 reactable advancing heel
 reactable advancing sweep
-reactable advancing slide check
+reactable advancing slide strike
 reactable advancing knee
 reactable forward moving punch
 reactable forward moving jab
 reactable forward moving palm
-reactable forward moving fist poke
+reactable forward moving fist strike
 reactable forward moving uppercut
 reactable forward moving hand
 reactable forward moving chop
 reactable forward moving slap
-reactable forward moving armbar poke
+reactable forward moving armbar strike
 reactable forward moving swing
 reactable forward moving shove
 reactable forward moving push
 reactable forward moving elbow
-reactable forward moving shoulder check
+reactable forward moving shoulder poke
 reactable forward moving tackle
 reactable forward moving body
 reactable forward moving head
 reactable forward moving headbutt
-reactable forward moving finger smash
+reactable forward moving finger check
 reactable forward moving butt
 reactable forward moving leg
 reactable forward moving foot
 reactable forward moving kick
-reactable forward moving roundhouse smash
+reactable forward moving roundhouse move
 reactable forward moving round house
 reactable forward moving axe kick
 reactable forward moving axekick
 reactable forward moving heel
-reactable forward moving sweep check
+reactable forward moving sweep move
 reactable forward moving slide
 reactable forward moving knee
 reactable backwards moving punch
 reactable backwards moving jab
-reactable backwards moving palm strike
+reactable backwards moving palm smash
 reactable backwards moving fist
 reactable backwards moving uppercut
 reactable backwards moving hand
 reactable backwards moving chop
-reactable backwards moving slap smash
+reactable backwards moving slap jab
 reactable backwards moving armbar
 reactable backwards moving swing
 reactable backwards moving shove
@@ -9130,72 +6773,72 @@ reactable backwards moving shoulder
 reactable backwards moving tackle
 reactable backwards moving body
 reactable backwards moving head
-reactable backwards moving headbutt move
+reactable backwards moving headbutt strike
 reactable backwards moving finger
 reactable backwards moving butt
 reactable backwards moving leg
 reactable backwards moving foot
-reactable backwards moving kick jab
+reactable backwards moving kick smash
 reactable backwards moving roundhouse
 reactable backwards moving round house
 reactable backwards moving axe kick
 reactable backwards moving axekick
-reactable backwards moving heel jab
+reactable backwards moving heel smash
 reactable backwards moving sweep
 reactable backwards moving slide
 reactable backwards moving knee
 reactable backwards punch
-reactable backwards jab move
+reactable backwards jab poke
 reactable backwards palm
 reactable backwards fist
 reactable backwards uppercut
 reactable backwards hand
-reactable backwards chop strike
+reactable backwards chop jab
 reactable backwards slap
 reactable backwards armbar
 reactable backwards swing
 reactable backwards shove
-reactable backwards push strike
+reactable backwards push move
 reactable backwards elbow
 reactable backwards shoulder
 reactable backwards tackle
 reactable backwards body
-reactable backwards head smash
+reactable backwards head poke
 reactable backwards headbutt
 reactable backwards finger
 reactable backwards butt
 reactable backwards leg
-reactable backwards foot move
+reactable backwards foot smash
 reactable backwards kick
 reactable backwards roundhouse
 reactable backwards round house
 reactable backwards axe kick
-reactable backwards axekick smash
+reactable backwards axekick move
 reactable backwards heel
 reactable backwards sweep
 reactable backwards slide
 reactable backwards knee
-reactable retreating punch poke
+reactable retreating punch smash
 reactable retreating jab
 reactable retreating palm
 reactable retreating fist
 reactable retreating uppercut
-reactable retreating hand poke
+reactable retreating hand jab
 reactable retreating chop
 reactable retreating slap
 reactable retreating armbar
 reactable retreating swing
-reactable retreating shove poke
+reactable retreating shove jab
 reactable retreating push
 reactable retreating elbow
 reactable retreating shoulder
 reactable retreating tackle
-reactable retreating body smash
+reactable retreating body strike
 reactable retreating head
 reactable retreating headbutt
 reactable retreating finger
 reactable retreating butt
-reactable retreating leg smash
+reactable retreating leg move
 reactable retreating foot
 reactable retreating kick
 reactable retreating roundhouse
@@ -9205,37 +6848,37 @@ reactable retreating axekick
 reactable retreating heel
 reactable retreating sweep
 reactable retreating slide
-reactable retreating knee jab
+reactable retreating knee strike
 reactable dodging punch
 reactable dodging jab
 reactable dodging palm
 reactable dodging fist
-reactable dodging uppercut strike
+reactable dodging uppercut poke
 reactable dodging hand
 reactable dodging chop
 reactable dodging slap
 reactable dodging armbar
-reactable dodging swing jab
+reactable dodging swing check
 reactable dodging shove
 reactable dodging push
 reactable dodging elbow
 reactable dodging shoulder
-reactable dodging tackle smash
+reactable dodging tackle move
 reactable dodging body
 reactable dodging head
 reactable dodging headbutt
 reactable dodging finger
-reactable dodging butt move
+reactable dodging butt check
 reactable dodging leg
 reactable dodging foot
 reactable dodging kick
 reactable dodging roundhouse
-reactable dodging round house smash
+reactable dodging round house strike
 reactable dodging axe kick
 reactable dodging axekick
 reactable dodging heel
 reactable dodging sweep
-reactable dodging slide move
+reactable dodging slide smash
 reactable dodging knee
 reactable evading punch
 reactable evading jab
@@ -9245,17 +6888,17 @@ reactable evading uppercut
 reactable evading hand
 reactable evading chop
 reactable evading slap
-reactable evading armbar poke
+reactable evading armbar smash
 reactable evading swing
 reactable evading shove
 reactable evading push
 reactable evading elbow
-reactable evading shoulder check
+reactable evading shoulder move
 reactable evading tackle
 reactable evading body
 reactable evading head
 reactable evading headbutt
-reactable evading finger check
+reactable evading finger strike
 reactable evading butt
 reactable evading leg
 reactable evading foot
@@ -9265,72 +6908,72 @@ reactable evading round house
 reactable evading axe kick
 reactable evading axekick
 reactable evading heel
-reactable evading sweep check
+reactable evading sweep poke
 reactable evading slide
 reactable evading knee
 reactable flying punch
 reactable flying jab
-reactable flying palm jab
+reactable flying palm smash
 reactable flying fist
 reactable flying uppercut
 reactable flying hand
 reactable flying chop
-reactable flying slap check
+reactable flying slap move
 reactable flying armbar
 reactable flying swing
 reactable flying shove
 reactable flying push
-reactable flying elbow poke
+reactable flying elbow smash
 reactable flying shoulder
 reactable flying tackle
 reactable flying body
 reactable flying head
-reactable flying headbutt check
+reactable flying headbutt smash
 reactable flying finger
 reactable flying butt
 reactable flying leg
 reactable flying foot
-reactable flying kick poke
+reactable flying kick strike
 reactable flying roundhouse
 reactable flying round house
 reactable flying axe kick
 reactable flying axekick
-reactable flying heel smash
+reactable flying heel move
 reactable flying sweep
 reactable flying slide
 reactable flying knee
 reactable rolling punch
-reactable rolling jab move
+reactable rolling jab check
 reactable rolling palm
 reactable rolling fist
 reactable rolling uppercut
 reactable rolling hand
-reactable rolling chop poke
+reactable rolling chop jab
 reactable rolling slap
 reactable rolling armbar
 reactable rolling swing
 reactable rolling shove
-reactable rolling push smash
+reactable rolling push jab
 reactable rolling elbow
 reactable rolling shoulder
 reactable rolling tackle
 reactable rolling body
-reactable rolling head check
+reactable rolling head poke
 reactable rolling headbutt
 reactable rolling finger
 reactable rolling butt
 reactable rolling leg
-reactable rolling foot strike
+reactable rolling foot smash
 reactable rolling kick
 reactable rolling roundhouse
 reactable rolling round house
 reactable rolling axe kick
-reactable rolling axekick strike
+reactable rolling axekick poke
 reactable rolling heel
 reactable rolling sweep
 reactable rolling slide
 reactable rolling knee
-reactable sliding punch jab
+reactable sliding punch strike
 reactable sliding jab
 reactable sliding palm
 reactable sliding fist
@@ -9340,7 +6983,7 @@ reactable sliding chop
 reactable sliding slap
 reactable sliding armbar
 reactable sliding swing
-reactable sliding shove check
+reactable sliding shove move
 reactable sliding push
 reactable sliding elbow
 reactable sliding shoulder
@@ -9350,17 +6993,17 @@ reactable sliding head
 reactable sliding headbutt
 reactable sliding finger
 reactable sliding butt
-reactable sliding leg strike
+reactable sliding leg check
 reactable sliding foot
 reactable sliding kick
 reactable sliding roundhouse
 reactable sliding round house
-reactable sliding axe kick check
+reactable sliding axe kick jab
 reactable sliding axekick
 reactable sliding heel
 reactable sliding sweep
 reactable sliding slide
-reactable sliding knee move
+reactable sliding knee jab
 reactable overhead punch
 reactable overhead jab
 reactable overhead palm
@@ -9375,22 +7018,22 @@ reactable overhead shove
 reactable overhead push
 reactable overhead elbow
 reactable overhead shoulder
-reactable overhead tackle smash
+reactable overhead tackle check
 reactable overhead body
 reactable overhead head
 reactable overhead headbutt
 reactable overhead finger
-reactable overhead butt move
+reactable overhead butt check
 reactable overhead leg
 reactable overhead foot
 reactable overhead kick
 reactable overhead roundhouse
-reactable overhead round house strike
+reactable overhead round house smash
 reactable overhead axe kick
 reactable overhead axekick
 reactable overhead heel
 reactable overhead sweep
-reactable overhead slide move
+reactable overhead slide smash
 reactable overhead knee
 reactable downwards punch
 reactable downwards jab
@@ -9405,22 +7048,22 @@ reactable downwards swing
 reactable downwards shove
 reactable downwards push
 reactable downwards elbow
-reactable downwards shoulder jab
+reactable downwards shoulder strike
 reactable downwards tackle
 reactable downwards body
 reactable downwards head
 reactable downwards headbutt
-reactable downwards finger jab
+reactable downwards finger strike
 reactable downwards butt
 reactable downwards leg
 reactable downwards foot
 reactable downwards kick
-reactable downwards roundhouse strike
+reactable downwards roundhouse smash
 reactable downwards round house
 reactable downwards axe kick
 reactable downwards axekick
 reactable downwards heel
-reactable downwards sweep smash
+reactable downwards sweep move
 reactable downwards slide
 reactable downwards knee
 reactable rising punch
@@ -9430,22 +7073,22 @@ reactable rising fist
 reactable rising uppercut
 reactable rising hand
 reactable rising chop
-reactable rising slap jab
+reactable rising slap poke
 reactable rising armbar
 reactable rising swing
 reactable rising shove
 reactable rising push
-reactable rising elbow move
+reactable rising elbow check
 reactable rising shoulder
 reactable rising tackle
 reactable rising body
 reactable rising head
-reactable rising headbutt smash
+reactable rising headbutt move
 reactable rising finger
 reactable rising butt
 reactable rising leg
 reactable rising foot
-reactable rising kick move
+reactable rising kick smash
 reactable rising roundhouse
 reactable rising round house
 reactable rising axe kick
@@ -9455,32 +7098,32 @@ reactable rising sweep
 reactable rising slide
 reactable rising knee
 reactable forward punch
-reactable forward jab poke
+reactable forward jab smash
 reactable forward palm
 reactable forward fist
 reactable forward uppercut
 reactable forward hand
-reactable forward chop smash
+reactable forward chop jab
 reactable forward slap
 reactable forward armbar
 reactable forward swing
 reactable forward shove
-reactable forward push move
+reactable forward push check
 reactable forward elbow
 reactable forward shoulder
 reactable forward tackle
 reactable forward body
-reactable forward head jab
+reactable forward head check
 reactable forward headbutt
 reactable forward finger
 reactable forward butt
 reactable forward leg
-reactable forward foot strike
+reactable forward foot move
 reactable forward kick
 reactable forward roundhouse
 reactable forward round house
 reactable forward axe kick
-reactable forward axekick smash
+reactable forward axekick poke
 reactable forward heel
 reactable forward sweep
 reactable forward slide
@@ -11717,1398 +9360,561 @@ quick knee that staggers
 quick knee that high crushes
 quick knee move that low crushes
 quick knee that evades
-swift punch that guard crushes
-swift punch that launches
-swift punch that transitions to stance
-swift punch move that tornados
-swift punch that knocks down
-swift punch that staggers
-swift punch that high crushes
-swift punch that low crushes
-swift punch move that evades
-swift jab that guard crushes
-swift jab that launches
-swift jab that transitions to stance
-swift jab that tornados
-swift jab move that knocks down
-swift jab that staggers
-swift jab that high crushes
-swift jab that low crushes
-swift jab that evades
-swift palm move that guard crushes
-swift palm that launches
-swift palm that transitions to stance
-swift palm that tornados
-swift palm that knocks down
-swift palm move that staggers
-swift palm that high crushes
-swift palm that low crushes
-swift palm that evades
-swift fist that guard crushes
-swift fist move that launches
-swift fist that transitions to stance
-swift fist that tornados
-swift fist that knocks down
-swift fist that staggers
-swift fist move that high crushes
-swift fist that low crushes
-swift fist that evades
-swift uppercut that guard crushes
-swift uppercut that launches
-swift uppercut move that transitions to stance
-swift uppercut that tornados
-swift uppercut that knocks down
-swift uppercut that staggers
-swift uppercut that high crushes
-swift uppercut move that low crushes
-swift uppercut that evades
-swift hand that guard crushes
-swift hand that launches
-swift hand that transitions to stance
-swift hand move that tornados
-swift hand that knocks down
-swift hand that staggers
-swift hand that high crushes
-swift hand that low crushes
-swift hand move that evades
-swift chop that guard crushes
-swift chop that launches
-swift chop that transitions to stance
-swift chop that tornados
-swift chop move that knocks down
-swift chop that staggers
-swift chop that high crushes
-swift chop that low crushes
-swift chop that evades
-swift slap move that guard crushes
-swift slap that launches
-swift slap that transitions to stance
-swift slap that tornados
-swift slap that knocks down
-swift slap move that staggers
-swift slap that high crushes
-swift slap that low crushes
-swift slap that evades
-swift armbar that guard crushes
-swift armbar move that launches
-swift armbar that transitions to stance
-swift armbar that tornados
-swift armbar that knocks down
-swift armbar that staggers
-swift armbar move that high crushes
-swift armbar that low crushes
-swift armbar that evades
-swift swing that guard crushes
-swift swing that launches
-swift swing move that transitions to stance
-swift swing that tornados
-swift swing that knocks down
-swift swing that staggers
-swift swing that high crushes
-swift swing move that low crushes
-swift swing that evades
-swift shove that guard crushes
-swift shove that launches
-swift shove that transitions to stance
-swift shove move that tornados
-swift shove that knocks down
-swift shove that staggers
-swift shove that high crushes
-swift shove that low crushes
-swift shove move that evades
-swift push that guard crushes
-swift push that launches
-swift push that transitions to stance
-swift push that tornados
-swift push move that knocks down
-swift push that staggers
-swift push that high crushes
-swift push that low crushes
-swift push that evades
-swift elbow move that guard crushes
-swift elbow that launches
-swift elbow that transitions to stance
-swift elbow that tornados
-swift elbow that knocks down
-swift elbow move that staggers
-swift elbow that high crushes
-swift elbow that low crushes
-swift elbow that evades
-swift shoulder that guard crushes
-swift shoulder move that launches
-swift shoulder that transitions to stance
-swift shoulder that tornados
-swift shoulder that knocks down
-swift shoulder that staggers
-swift shoulder move that high crushes
-swift shoulder that low crushes
-swift shoulder that evades
-swift tackle that guard crushes
-swift tackle that launches
-swift tackle move that transitions to stance
-swift tackle that tornados
-swift tackle that knocks down
-swift tackle that staggers
-swift tackle that high crushes
-swift tackle move that low crushes
-swift tackle that evades
-swift body that guard crushes
-swift body that launches
-swift body that transitions to stance
-swift body move that tornados
-swift body that knocks down
-swift body that staggers
-swift body that high crushes
-swift body that low crushes
-swift body move that evades
-swift head that guard crushes
-swift head that launches
-swift head that transitions to stance
-swift head that tornados
-swift head move that knocks down
-swift head that staggers
-swift head that high crushes
-swift head that low crushes
-swift head that evades
-swift headbutt move that guard crushes
-swift headbutt that launches
-swift headbutt that transitions to stance
-swift headbutt that tornados
-swift headbutt that knocks down
-swift headbutt move that staggers
-swift headbutt that high crushes
-swift headbutt that low crushes
-swift headbutt that evades
-swift finger that guard crushes
-swift finger move that launches
-swift finger that transitions to stance
-swift finger that tornados
-swift finger that knocks down
-swift finger that staggers
-swift finger move that high crushes
-swift finger that low crushes
-swift finger that evades
-swift butt that guard crushes
-swift butt that launches
-swift butt move that transitions to stance
-swift butt that tornados
-swift butt that knocks down
-swift butt that staggers
-swift butt that high crushes
-swift butt move that low crushes
-swift butt that evades
-swift leg that guard crushes
-swift leg that launches
-swift leg that transitions to stance
-swift leg move that tornados
-swift leg that knocks down
-swift leg that staggers
-swift leg that high crushes
-swift leg that low crushes
-swift leg move that evades
-swift foot that guard crushes
-swift foot that launches
-swift foot that transitions to stance
-swift foot that tornados
-swift foot move that knocks down
-swift foot that staggers
-swift foot that high crushes
-swift foot that low crushes
-swift foot that evades
-swift kick move that guard crushes
-swift kick that launches
-swift kick that transitions to stance
-swift kick that tornados
-swift kick that knocks down
-swift kick move that staggers
-swift kick that high crushes
-swift kick that low crushes
-swift kick that evades
-swift roundhouse that guard crushes
-swift roundhouse move that launches
-swift roundhouse that transitions to stance
-swift roundhouse that tornados
-swift roundhouse that knocks down
-swift roundhouse that staggers
-swift roundhouse move that high crushes
-swift roundhouse that low crushes
-swift roundhouse that evades
-swift round house that guard crushes
-swift round house that launches
-swift round house move that transitions to stance
-swift round house that tornados
-swift round house that knocks down
-swift round house that staggers
-swift round house that high crushes
-swift round house move that low crushes
-swift round house that evades
-swift axe kick that guard crushes
-swift axe kick that launches
-swift axe kick that transitions to stance
-swift axe kick move that tornados
-swift axe kick that knocks down
-swift axe kick that staggers
-swift axe kick that high crushes
-swift axe kick that low crushes
-swift axe kick move that evades
-swift axekick that guard crushes
-swift axekick that launches
-swift axekick that transitions to stance
-swift axekick that tornados
-swift axekick move that knocks down
-swift axekick that staggers
-swift axekick that high crushes
-swift axekick that low crushes
-swift axekick that evades
-swift heel move that guard crushes
-swift heel that launches
-swift heel that transitions to stance
-swift heel that tornados
-swift heel that knocks down
-swift heel move that staggers
-swift heel that high crushes
-swift heel that low crushes
-swift heel that evades
-swift sweep that guard crushes
-swift sweep move that launches
-swift sweep that transitions to stance
-swift sweep that tornados
-swift sweep that knocks down
-swift sweep that staggers
-swift sweep move that high crushes
-swift sweep that low crushes
-swift sweep that evades
-swift slide that guard crushes
-swift slide that launches
-swift slide move that transitions to stance
-swift slide that tornados
-swift slide that knocks down
-swift slide that staggers
-swift slide that high crushes
-swift slide move that low crushes
-swift slide that evades
-swift knee that guard crushes
-swift knee that launches
-swift knee that transitions to stance
-swift knee move that tornados
-swift knee that knocks down
-swift knee that staggers
-swift knee that high crushes
-swift knee that low crushes
-swift knee move that evades
 rapid punch that guard crushes
 rapid punch that launches
 rapid punch that transitions to stance
-rapid punch that tornados
-rapid punch move that knocks down
+rapid punch move that tornados
+rapid punch that knocks down
 rapid punch that staggers
 rapid punch that high crushes
 rapid punch that low crushes
-rapid punch that evades
-rapid jab move that guard crushes
+rapid punch move that evades
+rapid jab that guard crushes
 rapid jab that launches
 rapid jab that transitions to stance
 rapid jab that tornados
-rapid jab that knocks down
-rapid jab move that staggers
+rapid jab move that knocks down
+rapid jab that staggers
 rapid jab that high crushes
 rapid jab that low crushes
 rapid jab that evades
-rapid palm that guard crushes
-rapid palm move that launches
+rapid palm move that guard crushes
+rapid palm that launches
 rapid palm that transitions to stance
 rapid palm that tornados
 rapid palm that knocks down
-rapid palm that staggers
-rapid palm move that high crushes
+rapid palm move that staggers
+rapid palm that high crushes
 rapid palm that low crushes
 rapid palm that evades
 rapid fist that guard crushes
-rapid fist that launches
-rapid fist move that transitions to stance
+rapid fist move that launches
+rapid fist that transitions to stance
 rapid fist that tornados
 rapid fist that knocks down
 rapid fist that staggers
-rapid fist that high crushes
-rapid fist move that low crushes
+rapid fist move that high crushes
+rapid fist that low crushes
 rapid fist that evades
 rapid uppercut that guard crushes
 rapid uppercut that launches
-rapid uppercut that transitions to stance
-rapid uppercut move that tornados
+rapid uppercut move that transitions to stance
+rapid uppercut that tornados
 rapid uppercut that knocks down
 rapid uppercut that staggers
 rapid uppercut that high crushes
-rapid uppercut that low crushes
-rapid uppercut move that evades
+rapid uppercut move that low crushes
+rapid uppercut that evades
 rapid hand that guard crushes
 rapid hand that launches
 rapid hand that transitions to stance
-rapid hand that tornados
-rapid hand move that knocks down
+rapid hand move that tornados
+rapid hand that knocks down
 rapid hand that staggers
 rapid hand that high crushes
 rapid hand that low crushes
-rapid hand that evades
-rapid chop move that guard crushes
+rapid hand move that evades
+rapid chop that guard crushes
 rapid chop that launches
 rapid chop that transitions to stance
 rapid chop that tornados
-rapid chop that knocks down
-rapid chop move that staggers
+rapid chop move that knocks down
+rapid chop that staggers
 rapid chop that high crushes
 rapid chop that low crushes
 rapid chop that evades
-rapid slap that guard crushes
-rapid slap move that launches
+rapid slap move that guard crushes
+rapid slap that launches
 rapid slap that transitions to stance
 rapid slap that tornados
 rapid slap that knocks down
-rapid slap that staggers
-rapid slap move that high crushes
+rapid slap move that staggers
+rapid slap that high crushes
 rapid slap that low crushes
 rapid slap that evades
 rapid armbar that guard crushes
-rapid armbar that launches
-rapid armbar move that transitions to stance
+rapid armbar move that launches
+rapid armbar that transitions to stance
 rapid armbar that tornados
 rapid armbar that knocks down
 rapid armbar that staggers
-rapid armbar that high crushes
-rapid armbar move that low crushes
+rapid armbar move that high crushes
+rapid armbar that low crushes
 rapid armbar that evades
 rapid swing that guard crushes
 rapid swing that launches
-rapid swing that transitions to stance
-rapid swing move that tornados
+rapid swing move that transitions to stance
+rapid swing that tornados
 rapid swing that knocks down
 rapid swing that staggers
 rapid swing that high crushes
-rapid swing that low crushes
-rapid swing move that evades
+rapid swing move that low crushes
+rapid swing that evades
 rapid shove that guard crushes
 rapid shove that launches
 rapid shove that transitions to stance
-rapid shove that tornados
-rapid shove move that knocks down
+rapid shove move that tornados
+rapid shove that knocks down
 rapid shove that staggers
 rapid shove that high crushes
 rapid shove that low crushes
-rapid shove that evades
-rapid push move that guard crushes
+rapid shove move that evades
+rapid push that guard crushes
 rapid push that launches
 rapid push that transitions to stance
 rapid push that tornados
-rapid push that knocks down
-rapid push move that staggers
+rapid push move that knocks down
+rapid push that staggers
 rapid push that high crushes
 rapid push that low crushes
 rapid push that evades
-rapid elbow that guard crushes
-rapid elbow move that launches
+rapid elbow move that guard crushes
+rapid elbow that launches
 rapid elbow that transitions to stance
 rapid elbow that tornados
 rapid elbow that knocks down
-rapid elbow that staggers
-rapid elbow move that high crushes
+rapid elbow move that staggers
+rapid elbow that high crushes
 rapid elbow that low crushes
 rapid elbow that evades
 rapid shoulder that guard crushes
-rapid shoulder that launches
-rapid shoulder move that transitions to stance
+rapid shoulder move that launches
+rapid shoulder that transitions to stance
 rapid shoulder that tornados
 rapid shoulder that knocks down
 rapid shoulder that staggers
-rapid shoulder that high crushes
-rapid shoulder move that low crushes
+rapid shoulder move that high crushes
+rapid shoulder that low crushes
 rapid shoulder that evades
 rapid tackle that guard crushes
 rapid tackle that launches
-rapid tackle that transitions to stance
-rapid tackle move that tornados
+rapid tackle move that transitions to stance
+rapid tackle that tornados
 rapid tackle that knocks down
 rapid tackle that staggers
 rapid tackle that high crushes
-rapid tackle that low crushes
-rapid tackle move that evades
+rapid tackle move that low crushes
+rapid tackle that evades
 rapid body that guard crushes
 rapid body that launches
 rapid body that transitions to stance
-rapid body that tornados
-rapid body move that knocks down
+rapid body move that tornados
+rapid body that knocks down
 rapid body that staggers
 rapid body that high crushes
 rapid body that low crushes
-rapid body that evades
-rapid head move that guard crushes
+rapid body move that evades
+rapid head that guard crushes
 rapid head that launches
 rapid head that transitions to stance
 rapid head that tornados
-rapid head that knocks down
-rapid head move that staggers
+rapid head move that knocks down
+rapid head that staggers
 rapid head that high crushes
 rapid head that low crushes
 rapid head that evades
-rapid headbutt that guard crushes
-rapid headbutt move that launches
+rapid headbutt move that guard crushes
+rapid headbutt that launches
 rapid headbutt that transitions to stance
 rapid headbutt that tornados
 rapid headbutt that knocks down
-rapid headbutt that staggers
-rapid headbutt move that high crushes
+rapid headbutt move that staggers
+rapid headbutt that high crushes
 rapid headbutt that low crushes
 rapid headbutt that evades
 rapid finger that guard crushes
-rapid finger that launches
-rapid finger move that transitions to stance
+rapid finger move that launches
+rapid finger that transitions to stance
 rapid finger that tornados
 rapid finger that knocks down
 rapid finger that staggers
-rapid finger that high crushes
-rapid finger move that low crushes
+rapid finger move that high crushes
+rapid finger that low crushes
 rapid finger that evades
 rapid butt that guard crushes
 rapid butt that launches
-rapid butt that transitions to stance
-rapid butt move that tornados
+rapid butt move that transitions to stance
+rapid butt that tornados
 rapid butt that knocks down
 rapid butt that staggers
 rapid butt that high crushes
-rapid butt that low crushes
-rapid butt move that evades
+rapid butt move that low crushes
+rapid butt that evades
 rapid leg that guard crushes
 rapid leg that launches
 rapid leg that transitions to stance
-rapid leg that tornados
-rapid leg move that knocks down
+rapid leg move that tornados
+rapid leg that knocks down
 rapid leg that staggers
 rapid leg that high crushes
 rapid leg that low crushes
-rapid leg that evades
-rapid foot move that guard crushes
+rapid leg move that evades
+rapid foot that guard crushes
 rapid foot that launches
 rapid foot that transitions to stance
 rapid foot that tornados
-rapid foot that knocks down
-rapid foot move that staggers
+rapid foot move that knocks down
+rapid foot that staggers
 rapid foot that high crushes
 rapid foot that low crushes
 rapid foot that evades
-rapid kick that guard crushes
-rapid kick move that launches
+rapid kick move that guard crushes
+rapid kick that launches
 rapid kick that transitions to stance
 rapid kick that tornados
 rapid kick that knocks down
-rapid kick that staggers
-rapid kick move that high crushes
+rapid kick move that staggers
+rapid kick that high crushes
 rapid kick that low crushes
 rapid kick that evades
 rapid roundhouse that guard crushes
-rapid roundhouse that launches
-rapid roundhouse move that transitions to stance
+rapid roundhouse move that launches
+rapid roundhouse that transitions to stance
 rapid roundhouse that tornados
 rapid roundhouse that knocks down
 rapid roundhouse that staggers
-rapid roundhouse that high crushes
-rapid roundhouse move that low crushes
+rapid roundhouse move that high crushes
+rapid roundhouse that low crushes
 rapid roundhouse that evades
 rapid round house that guard crushes
 rapid round house that launches
-rapid round house that transitions to stance
-rapid round house move that tornados
+rapid round house move that transitions to stance
+rapid round house that tornados
 rapid round house that knocks down
 rapid round house that staggers
 rapid round house that high crushes
-rapid round house that low crushes
-rapid round house move that evades
+rapid round house move that low crushes
+rapid round house that evades
 rapid axe kick that guard crushes
 rapid axe kick that launches
 rapid axe kick that transitions to stance
-rapid axe kick that tornados
-rapid axe kick move that knocks down
+rapid axe kick move that tornados
+rapid axe kick that knocks down
 rapid axe kick that staggers
 rapid axe kick that high crushes
 rapid axe kick that low crushes
-rapid axe kick that evades
-rapid axekick move that guard crushes
+rapid axe kick move that evades
+rapid axekick that guard crushes
 rapid axekick that launches
 rapid axekick that transitions to stance
 rapid axekick that tornados
-rapid axekick that knocks down
-rapid axekick move that staggers
+rapid axekick move that knocks down
+rapid axekick that staggers
 rapid axekick that high crushes
 rapid axekick that low crushes
 rapid axekick that evades
-rapid heel that guard crushes
-rapid heel move that launches
+rapid heel move that guard crushes
+rapid heel that launches
 rapid heel that transitions to stance
 rapid heel that tornados
 rapid heel that knocks down
-rapid heel that staggers
-rapid heel move that high crushes
+rapid heel move that staggers
+rapid heel that high crushes
 rapid heel that low crushes
 rapid heel that evades
 rapid sweep that guard crushes
-rapid sweep that launches
-rapid sweep move that transitions to stance
+rapid sweep move that launches
+rapid sweep that transitions to stance
 rapid sweep that tornados
 rapid sweep that knocks down
 rapid sweep that staggers
-rapid sweep that high crushes
-rapid sweep move that low crushes
+rapid sweep move that high crushes
+rapid sweep that low crushes
 rapid sweep that evades
 rapid slide that guard crushes
 rapid slide that launches
-rapid slide that transitions to stance
-rapid slide move that tornados
+rapid slide move that transitions to stance
+rapid slide that tornados
 rapid slide that knocks down
 rapid slide that staggers
 rapid slide that high crushes
-rapid slide that low crushes
-rapid slide move that evades
+rapid slide move that low crushes
+rapid slide that evades
 rapid knee that guard crushes
 rapid knee that launches
 rapid knee that transitions to stance
-rapid knee that tornados
-rapid knee move that knocks down
+rapid knee move that tornados
+rapid knee that knocks down
 rapid knee that staggers
 rapid knee that high crushes
 rapid knee that low crushes
-rapid knee that evades
-nimble punch move that guard crushes
-nimble punch that launches
-nimble punch that transitions to stance
-nimble punch that tornados
-nimble punch that knocks down
-nimble punch move that staggers
-nimble punch that high crushes
-nimble punch that low crushes
-nimble punch that evades
-nimble jab that guard crushes
-nimble jab move that launches
-nimble jab that transitions to stance
-nimble jab that tornados
-nimble jab that knocks down
-nimble jab that staggers
-nimble jab move that high crushes
-nimble jab that low crushes
-nimble jab that evades
-nimble palm that guard crushes
-nimble palm that launches
-nimble palm move that transitions to stance
-nimble palm that tornados
-nimble palm that knocks down
-nimble palm that staggers
-nimble palm that high crushes
-nimble palm move that low crushes
-nimble palm that evades
-nimble fist that guard crushes
-nimble fist that launches
-nimble fist that transitions to stance
-nimble fist move that tornados
-nimble fist that knocks down
-nimble fist that staggers
-nimble fist that high crushes
-nimble fist that low crushes
-nimble fist move that evades
-nimble uppercut that guard crushes
-nimble uppercut that launches
-nimble uppercut that transitions to stance
-nimble uppercut that tornados
-nimble uppercut move that knocks down
-nimble uppercut that staggers
-nimble uppercut that high crushes
-nimble uppercut that low crushes
-nimble uppercut that evades
-nimble hand move that guard crushes
-nimble hand that launches
-nimble hand that transitions to stance
-nimble hand that tornados
-nimble hand that knocks down
-nimble hand move that staggers
-nimble hand that high crushes
-nimble hand that low crushes
-nimble hand that evades
-nimble chop that guard crushes
-nimble chop move that launches
-nimble chop that transitions to stance
-nimble chop that tornados
-nimble chop that knocks down
-nimble chop that staggers
-nimble chop move that high crushes
-nimble chop that low crushes
-nimble chop that evades
-nimble slap that guard crushes
-nimble slap that launches
-nimble slap move that transitions to stance
-nimble slap that tornados
-nimble slap that knocks down
-nimble slap that staggers
-nimble slap that high crushes
-nimble slap move that low crushes
-nimble slap that evades
-nimble armbar that guard crushes
-nimble armbar that launches
-nimble armbar that transitions to stance
-nimble armbar move that tornados
-nimble armbar that knocks down
-nimble armbar that staggers
-nimble armbar that high crushes
-nimble armbar that low crushes
-nimble armbar move that evades
-nimble swing that guard crushes
-nimble swing that launches
-nimble swing that transitions to stance
-nimble swing that tornados
-nimble swing move that knocks down
-nimble swing that staggers
-nimble swing that high crushes
-nimble swing that low crushes
-nimble swing that evades
-nimble shove move that guard crushes
-nimble shove that launches
-nimble shove that transitions to stance
-nimble shove that tornados
-nimble shove that knocks down
-nimble shove move that staggers
-nimble shove that high crushes
-nimble shove that low crushes
-nimble shove that evades
-nimble push that guard crushes
-nimble push move that launches
-nimble push that transitions to stance
-nimble push that tornados
-nimble push that knocks down
-nimble push that staggers
-nimble push move that high crushes
-nimble push that low crushes
-nimble push that evades
-nimble elbow that guard crushes
-nimble elbow that launches
-nimble elbow move that transitions to stance
-nimble elbow that tornados
-nimble elbow that knocks down
-nimble elbow that staggers
-nimble elbow that high crushes
-nimble elbow move that low crushes
-nimble elbow that evades
-nimble shoulder that guard crushes
-nimble shoulder that launches
-nimble shoulder that transitions to stance
-nimble shoulder move that tornados
-nimble shoulder that knocks down
-nimble shoulder that staggers
-nimble shoulder that high crushes
-nimble shoulder that low crushes
-nimble shoulder move that evades
-nimble tackle that guard crushes
-nimble tackle that launches
-nimble tackle that transitions to stance
-nimble tackle that tornados
-nimble tackle move that knocks down
-nimble tackle that staggers
-nimble tackle that high crushes
-nimble tackle that low crushes
-nimble tackle that evades
-nimble body move that guard crushes
-nimble body that launches
-nimble body that transitions to stance
-nimble body that tornados
-nimble body that knocks down
-nimble body move that staggers
-nimble body that high crushes
-nimble body that low crushes
-nimble body that evades
-nimble head that guard crushes
-nimble head move that launches
-nimble head that transitions to stance
-nimble head that tornados
-nimble head that knocks down
-nimble head that staggers
-nimble head move that high crushes
-nimble head that low crushes
-nimble head that evades
-nimble headbutt that guard crushes
-nimble headbutt that launches
-nimble headbutt move that transitions to stance
-nimble headbutt that tornados
-nimble headbutt that knocks down
-nimble headbutt that staggers
-nimble headbutt that high crushes
-nimble headbutt move that low crushes
-nimble headbutt that evades
-nimble finger that guard crushes
-nimble finger that launches
-nimble finger that transitions to stance
-nimble finger move that tornados
-nimble finger that knocks down
-nimble finger that staggers
-nimble finger that high crushes
-nimble finger that low crushes
-nimble finger move that evades
-nimble butt that guard crushes
-nimble butt that launches
-nimble butt that transitions to stance
-nimble butt that tornados
-nimble butt move that knocks down
-nimble butt that staggers
-nimble butt that high crushes
-nimble butt that low crushes
-nimble butt that evades
-nimble leg move that guard crushes
-nimble leg that launches
-nimble leg that transitions to stance
-nimble leg that tornados
-nimble leg that knocks down
-nimble leg move that staggers
-nimble leg that high crushes
-nimble leg that low crushes
-nimble leg that evades
-nimble foot that guard crushes
-nimble foot move that launches
-nimble foot that transitions to stance
-nimble foot that tornados
-nimble foot that knocks down
-nimble foot that staggers
-nimble foot move that high crushes
-nimble foot that low crushes
-nimble foot that evades
-nimble kick that guard crushes
-nimble kick that launches
-nimble kick move that transitions to stance
-nimble kick that tornados
-nimble kick that knocks down
-nimble kick that staggers
-nimble kick that high crushes
-nimble kick move that low crushes
-nimble kick that evades
-nimble roundhouse that guard crushes
-nimble roundhouse that launches
-nimble roundhouse that transitions to stance
-nimble roundhouse move that tornados
-nimble roundhouse that knocks down
-nimble roundhouse that staggers
-nimble roundhouse that high crushes
-nimble roundhouse that low crushes
-nimble roundhouse move that evades
-nimble round house that guard crushes
-nimble round house that launches
-nimble round house that transitions to stance
-nimble round house that tornados
-nimble round house move that knocks down
-nimble round house that staggers
-nimble round house that high crushes
-nimble round house that low crushes
-nimble round house that evades
-nimble axe kick move that guard crushes
-nimble axe kick that launches
-nimble axe kick that transitions to stance
-nimble axe kick that tornados
-nimble axe kick that knocks down
-nimble axe kick move that staggers
-nimble axe kick that high crushes
-nimble axe kick that low crushes
-nimble axe kick that evades
-nimble axekick that guard crushes
-nimble axekick move that launches
-nimble axekick that transitions to stance
-nimble axekick that tornados
-nimble axekick that knocks down
-nimble axekick that staggers
-nimble axekick move that high crushes
-nimble axekick that low crushes
-nimble axekick that evades
-nimble heel that guard crushes
-nimble heel that launches
-nimble heel move that transitions to stance
-nimble heel that tornados
-nimble heel that knocks down
-nimble heel that staggers
-nimble heel that high crushes
-nimble heel move that low crushes
-nimble heel that evades
-nimble sweep that guard crushes
-nimble sweep that launches
-nimble sweep that transitions to stance
-nimble sweep move that tornados
-nimble sweep that knocks down
-nimble sweep that staggers
-nimble sweep that high crushes
-nimble sweep that low crushes
-nimble sweep move that evades
-nimble slide that guard crushes
-nimble slide that launches
-nimble slide that transitions to stance
-nimble slide that tornados
-nimble slide move that knocks down
-nimble slide that staggers
-nimble slide that high crushes
-nimble slide that low crushes
-nimble slide that evades
-nimble knee move that guard crushes
-nimble knee that launches
-nimble knee that transitions to stance
-nimble knee that tornados
-nimble knee that knocks down
-nimble knee move that staggers
-nimble knee that high crushes
-nimble knee that low crushes
-nimble knee that evades
-speedy punch that guard crushes
-speedy punch move that launches
-speedy punch that transitions to stance
-speedy punch that tornados
-speedy punch that knocks down
-speedy punch that staggers
-speedy punch move that high crushes
-speedy punch that low crushes
-speedy punch that evades
-speedy jab that guard crushes
-speedy jab that launches
-speedy jab move that transitions to stance
-speedy jab that tornados
-speedy jab that knocks down
-speedy jab that staggers
-speedy jab that high crushes
-speedy jab move that low crushes
-speedy jab that evades
-speedy palm that guard crushes
-speedy palm that launches
-speedy palm that transitions to stance
-speedy palm move that tornados
-speedy palm that knocks down
-speedy palm that staggers
-speedy palm that high crushes
-speedy palm that low crushes
-speedy palm move that evades
-speedy fist that guard crushes
-speedy fist that launches
-speedy fist that transitions to stance
-speedy fist that tornados
-speedy fist move that knocks down
-speedy fist that staggers
-speedy fist that high crushes
-speedy fist that low crushes
-speedy fist that evades
-speedy uppercut move that guard crushes
-speedy uppercut that launches
-speedy uppercut that transitions to stance
-speedy uppercut that tornados
-speedy uppercut that knocks down
-speedy uppercut move that staggers
-speedy uppercut that high crushes
-speedy uppercut that low crushes
-speedy uppercut that evades
-speedy hand that guard crushes
-speedy hand move that launches
-speedy hand that transitions to stance
-speedy hand that tornados
-speedy hand that knocks down
-speedy hand that staggers
-speedy hand move that high crushes
-speedy hand that low crushes
-speedy hand that evades
-speedy chop that guard crushes
-speedy chop that launches
-speedy chop move that transitions to stance
-speedy chop that tornados
-speedy chop that knocks down
-speedy chop that staggers
-speedy chop that high crushes
-speedy chop move that low crushes
-speedy chop that evades
-speedy slap that guard crushes
-speedy slap that launches
-speedy slap that transitions to stance
-speedy slap move that tornados
-speedy slap that knocks down
-speedy slap that staggers
-speedy slap that high crushes
-speedy slap that low crushes
-speedy slap move that evades
-speedy armbar that guard crushes
-speedy armbar that launches
-speedy armbar that transitions to stance
-speedy armbar that tornados
-speedy armbar move that knocks down
-speedy armbar that staggers
-speedy armbar that high crushes
-speedy armbar that low crushes
-speedy armbar that evades
-speedy swing move that guard crushes
-speedy swing that launches
-speedy swing that transitions to stance
-speedy swing that tornados
-speedy swing that knocks down
-speedy swing move that staggers
-speedy swing that high crushes
-speedy swing that low crushes
-speedy swing that evades
-speedy shove that guard crushes
-speedy shove move that launches
-speedy shove that transitions to stance
-speedy shove that tornados
-speedy shove that knocks down
-speedy shove that staggers
-speedy shove move that high crushes
-speedy shove that low crushes
-speedy shove that evades
-speedy push that guard crushes
-speedy push that launches
-speedy push move that transitions to stance
-speedy push that tornados
-speedy push that knocks down
-speedy push that staggers
-speedy push that high crushes
-speedy push move that low crushes
-speedy push that evades
-speedy elbow that guard crushes
-speedy elbow that launches
-speedy elbow that transitions to stance
-speedy elbow move that tornados
-speedy elbow that knocks down
-speedy elbow that staggers
-speedy elbow that high crushes
-speedy elbow that low crushes
-speedy elbow move that evades
-speedy shoulder that guard crushes
-speedy shoulder that launches
-speedy shoulder that transitions to stance
-speedy shoulder that tornados
-speedy shoulder move that knocks down
-speedy shoulder that staggers
-speedy shoulder that high crushes
-speedy shoulder that low crushes
-speedy shoulder that evades
-speedy tackle move that guard crushes
-speedy tackle that launches
-speedy tackle that transitions to stance
-speedy tackle that tornados
-speedy tackle that knocks down
-speedy tackle move that staggers
-speedy tackle that high crushes
-speedy tackle that low crushes
-speedy tackle that evades
-speedy body that guard crushes
-speedy body move that launches
-speedy body that transitions to stance
-speedy body that tornados
-speedy body that knocks down
-speedy body that staggers
-speedy body move that high crushes
-speedy body that low crushes
-speedy body that evades
-speedy head that guard crushes
-speedy head that launches
-speedy head move that transitions to stance
-speedy head that tornados
-speedy head that knocks down
-speedy head that staggers
-speedy head that high crushes
-speedy head move that low crushes
-speedy head that evades
-speedy headbutt that guard crushes
-speedy headbutt that launches
-speedy headbutt that transitions to stance
-speedy headbutt move that tornados
-speedy headbutt that knocks down
-speedy headbutt that staggers
-speedy headbutt that high crushes
-speedy headbutt that low crushes
-speedy headbutt move that evades
-speedy finger that guard crushes
-speedy finger that launches
-speedy finger that transitions to stance
-speedy finger that tornados
-speedy finger move that knocks down
-speedy finger that staggers
-speedy finger that high crushes
-speedy finger that low crushes
-speedy finger that evades
-speedy butt move that guard crushes
-speedy butt that launches
-speedy butt that transitions to stance
-speedy butt that tornados
-speedy butt that knocks down
-speedy butt move that staggers
-speedy butt that high crushes
-speedy butt that low crushes
-speedy butt that evades
-speedy leg that guard crushes
-speedy leg move that launches
-speedy leg that transitions to stance
-speedy leg that tornados
-speedy leg that knocks down
-speedy leg that staggers
-speedy leg move that high crushes
-speedy leg that low crushes
-speedy leg that evades
-speedy foot that guard crushes
-speedy foot that launches
-speedy foot move that transitions to stance
-speedy foot that tornados
-speedy foot that knocks down
-speedy foot that staggers
-speedy foot that high crushes
-speedy foot move that low crushes
-speedy foot that evades
-speedy kick that guard crushes
-speedy kick that launches
-speedy kick that transitions to stance
-speedy kick move that tornados
-speedy kick that knocks down
-speedy kick that staggers
-speedy kick that high crushes
-speedy kick that low crushes
-speedy kick move that evades
-speedy roundhouse that guard crushes
-speedy roundhouse that launches
-speedy roundhouse that transitions to stance
-speedy roundhouse that tornados
-speedy roundhouse move that knocks down
-speedy roundhouse that staggers
-speedy roundhouse that high crushes
-speedy roundhouse that low crushes
-speedy roundhouse that evades
-speedy round house move that guard crushes
-speedy round house that launches
-speedy round house that transitions to stance
-speedy round house that tornados
-speedy round house that knocks down
-speedy round house move that staggers
-speedy round house that high crushes
-speedy round house that low crushes
-speedy round house that evades
-speedy axe kick that guard crushes
-speedy axe kick move that launches
-speedy axe kick that transitions to stance
-speedy axe kick that tornados
-speedy axe kick that knocks down
-speedy axe kick that staggers
-speedy axe kick move that high crushes
-speedy axe kick that low crushes
-speedy axe kick that evades
-speedy axekick that guard crushes
-speedy axekick that launches
-speedy axekick move that transitions to stance
-speedy axekick that tornados
-speedy axekick that knocks down
-speedy axekick that staggers
-speedy axekick that high crushes
-speedy axekick move that low crushes
-speedy axekick that evades
-speedy heel that guard crushes
-speedy heel that launches
-speedy heel that transitions to stance
-speedy heel move that tornados
-speedy heel that knocks down
-speedy heel that staggers
-speedy heel that high crushes
-speedy heel that low crushes
-speedy heel move that evades
-speedy sweep that guard crushes
-speedy sweep that launches
-speedy sweep that transitions to stance
-speedy sweep that tornados
-speedy sweep move that knocks down
-speedy sweep that staggers
-speedy sweep that high crushes
-speedy sweep that low crushes
-speedy sweep that evades
-speedy slide move that guard crushes
-speedy slide that launches
-speedy slide that transitions to stance
-speedy slide that tornados
-speedy slide that knocks down
-speedy slide move that staggers
-speedy slide that high crushes
-speedy slide that low crushes
-speedy slide that evades
-speedy knee that guard crushes
-speedy knee move that launches
-speedy knee that transitions to stance
-speedy knee that tornados
-speedy knee that knocks down
-speedy knee that staggers
-speedy knee move that high crushes
-speedy knee that low crushes
-speedy knee that evades
+rapid knee move that evades
 reactable punch that guard crushes
 reactable punch that launches
-reactable punch move that transitions to stance
+reactable punch that transitions to stance
 reactable punch that tornados
-reactable punch that knocks down
+reactable punch move that knocks down
 reactable punch that staggers
 reactable punch that high crushes
-reactable punch move that low crushes
+reactable punch that low crushes
 reactable punch that evades
-reactable jab that guard crushes
+reactable jab move that guard crushes
 reactable jab that launches
 reactable jab that transitions to stance
-reactable jab move that tornados
+reactable jab that tornados
 reactable jab that knocks down
-reactable jab that staggers
+reactable jab move that staggers
 reactable jab that high crushes
 reactable jab that low crushes
-reactable jab move that evades
+reactable jab that evades
 reactable palm that guard crushes
-reactable palm that launches
+reactable palm move that launches
 reactable palm that transitions to stance
 reactable palm that tornados
-reactable palm move that knocks down
+reactable palm that knocks down
 reactable palm that staggers
-reactable palm that high crushes
+reactable palm move that high crushes
 reactable palm that low crushes
 reactable palm that evades
-reactable fist move that guard crushes
+reactable fist that guard crushes
 reactable fist that launches
-reactable fist that transitions to stance
+reactable fist move that transitions to stance
 reactable fist that tornados
 reactable fist that knocks down
-reactable fist move that staggers
+reactable fist that staggers
 reactable fist that high crushes
-reactable fist that low crushes
+reactable fist move that low crushes
 reactable fist that evades
 reactable uppercut that guard crushes
-reactable uppercut move that launches
+reactable uppercut that launches
 reactable uppercut that transitions to stance
-reactable uppercut that tornados
+reactable uppercut move that tornados
 reactable uppercut that knocks down
 reactable uppercut that staggers
-reactable uppercut move that high crushes
+reactable uppercut that high crushes
 reactable uppercut that low crushes
-reactable uppercut that evades
+reactable uppercut move that evades
 reactable hand that guard crushes
 reactable hand that launches
-reactable hand move that transitions to stance
+reactable hand that transitions to stance
 reactable hand that tornados
-reactable hand that knocks down
+reactable hand move that knocks down
 reactable hand that staggers
 reactable hand that high crushes
-reactable hand move that low crushes
+reactable hand that low crushes
 reactable hand that evades
-reactable chop that guard crushes
+reactable chop move that guard crushes
 reactable chop that launches
 reactable chop that transitions to stance
-reactable chop move that tornados
+reactable chop that tornados
 reactable chop that knocks down
-reactable chop that staggers
+reactable chop move that staggers
 reactable chop that high crushes
 reactable chop that low crushes
-reactable chop move that evades
+reactable chop that evades
 reactable slap that guard crushes
-reactable slap that launches
+reactable slap move that launches
 reactable slap that transitions to stance
 reactable slap that tornados
-reactable slap move that knocks down
+reactable slap that knocks down
 reactable slap that staggers
-reactable slap that high crushes
+reactable slap move that high crushes
 reactable slap that low crushes
 reactable slap that evades
-reactable armbar move that guard crushes
+reactable armbar that guard crushes
 reactable armbar that launches
-reactable armbar that transitions to stance
+reactable armbar move that transitions to stance
 reactable armbar that tornados
 reactable armbar that knocks down
-reactable armbar move that staggers
+reactable armbar that staggers
 reactable armbar that high crushes
-reactable armbar that low crushes
+reactable armbar move that low crushes
 reactable armbar that evades
 reactable swing that guard crushes
-reactable swing move that launches
+reactable swing that launches
 reactable swing that transitions to stance
-reactable swing that tornados
+reactable swing move that tornados
 reactable swing that knocks down
 reactable swing that staggers
-reactable swing move that high crushes
+reactable swing that high crushes
 reactable swing that low crushes
-reactable swing that evades
+reactable swing move that evades
 reactable shove that guard crushes
 reactable shove that launches
-reactable shove move that transitions to stance
+reactable shove that transitions to stance
 reactable shove that tornados
-reactable shove that knocks down
+reactable shove move that knocks down
 reactable shove that staggers
 reactable shove that high crushes
-reactable shove move that low crushes
+reactable shove that low crushes
 reactable shove that evades
-reactable push that guard crushes
+reactable push move that guard crushes
 reactable push that launches
 reactable push that transitions to stance
-reactable push move that tornados
+reactable push that tornados
 reactable push that knocks down
-reactable push that staggers
+reactable push move that staggers
 reactable push that high crushes
 reactable push that low crushes
-reactable push move that evades
+reactable push that evades
 reactable elbow that guard crushes
-reactable elbow that launches
+reactable elbow move that launches
 reactable elbow that transitions to stance
 reactable elbow that tornados
-reactable elbow move that knocks down
+reactable elbow that knocks down
 reactable elbow that staggers
-reactable elbow that high crushes
+reactable elbow move that high crushes
 reactable elbow that low crushes
 reactable elbow that evades
-reactable shoulder move that guard crushes
+reactable shoulder that guard crushes
 reactable shoulder that launches
-reactable shoulder that transitions to stance
+reactable shoulder move that transitions to stance
 reactable shoulder that tornados
 reactable shoulder that knocks down
-reactable shoulder move that staggers
+reactable shoulder that staggers
 reactable shoulder that high crushes
-reactable shoulder that low crushes
+reactable shoulder move that low crushes
 reactable shoulder that evades
 reactable tackle that guard crushes
-reactable tackle move that launches
+reactable tackle that launches
 reactable tackle that transitions to stance
-reactable tackle that tornados
+reactable tackle move that tornados
 reactable tackle that knocks down
 reactable tackle that staggers
-reactable tackle move that high crushes
+reactable tackle that high crushes
 reactable tackle that low crushes
-reactable tackle that evades
+reactable tackle move that evades
 reactable body that guard crushes
 reactable body that launches
-reactable body move that transitions to stance
+reactable body that transitions to stance
 reactable body that tornados
-reactable body that knocks down
+reactable body move that knocks down
 reactable body that staggers
 reactable body that high crushes
-reactable body move that low crushes
+reactable body that low crushes
 reactable body that evades
-reactable head that guard crushes
+reactable head move that guard crushes
 reactable head that launches
 reactable head that transitions to stance
-reactable head move that tornados
+reactable head that tornados
 reactable head that knocks down
-reactable head that staggers
+reactable head move that staggers
 reactable head that high crushes
 reactable head that low crushes
-reactable head move that evades
+reactable head that evades
 reactable headbutt that guard crushes
-reactable headbutt that launches
+reactable headbutt move that launches
 reactable headbutt that transitions to stance
 reactable headbutt that tornados
-reactable headbutt move that knocks down
+reactable headbutt that knocks down
 reactable headbutt that staggers
-reactable headbutt that high crushes
+reactable headbutt move that high crushes
 reactable headbutt that low crushes
 reactable headbutt that evades
-reactable finger move that guard crushes
+reactable finger that guard crushes
 reactable finger that launches
-reactable finger that transitions to stance
+reactable finger move that transitions to stance
 reactable finger that tornados
 reactable finger that knocks down
-reactable finger move that staggers
+reactable finger that staggers
 reactable finger that high crushes
-reactable finger that low crushes
+reactable finger move that low crushes
 reactable finger that evades
 reactable butt that guard crushes
-reactable butt move that launches
+reactable butt that launches
 reactable butt that transitions to stance
-reactable butt that tornados
+reactable butt move that tornados
 reactable butt that knocks down
 reactable butt that staggers
-reactable butt move that high crushes
+reactable butt that high crushes
 reactable butt that low crushes
-reactable butt that evades
+reactable butt move that evades
 reactable leg that guard crushes
 reactable leg that launches
-reactable leg move that transitions to stance
+reactable leg that transitions to stance
 reactable leg that tornados
-reactable leg that knocks down
+reactable leg move that knocks down
 reactable leg that staggers
 reactable leg that high crushes
-reactable leg move that low crushes
+reactable leg that low crushes
 reactable leg that evades
-reactable foot that guard crushes
+reactable foot move that guard crushes
 reactable foot that launches
 reactable foot that transitions to stance
-reactable foot move that tornados
+reactable foot that tornados
 reactable foot that knocks down
-reactable foot that staggers
+reactable foot move that staggers
 reactable foot that high crushes
 reactable foot that low crushes
-reactable foot move that evades
+reactable foot that evades
 reactable kick that guard crushes
-reactable kick that launches
+reactable kick move that launches
 reactable kick that transitions to stance
 reactable kick that tornados
-reactable kick move that knocks down
+reactable kick that knocks down
 reactable kick that staggers
-reactable kick that high crushes
+reactable kick move that high crushes
 reactable kick that low crushes
 reactable kick that evades
-reactable roundhouse move that guard crushes
+reactable roundhouse that guard crushes
 reactable roundhouse that launches
-reactable roundhouse that transitions to stance
+reactable roundhouse move that transitions to stance
 reactable roundhouse that tornados
 reactable roundhouse that knocks down
-reactable roundhouse move that staggers
+reactable roundhouse that staggers
 reactable roundhouse that high crushes
-reactable roundhouse that low crushes
+reactable roundhouse move that low crushes
 reactable roundhouse that evades
 reactable round house that guard crushes
-reactable round house move that launches
+reactable round house that launches
 reactable round house that transitions to stance
-reactable round house that tornados
+reactable round house move that tornados
 reactable round house that knocks down
 reactable round house that staggers
-reactable round house move that high crushes
+reactable round house that high crushes
 reactable round house that low crushes
-reactable round house that evades
+reactable round house move that evades
 reactable axe kick that guard crushes
 reactable axe kick that launches
-reactable axe kick move that transitions to stance
+reactable axe kick that transitions to stance
 reactable axe kick that tornados
-reactable axe kick that knocks down
+reactable axe kick move that knocks down
 reactable axe kick that staggers
 reactable axe kick that high crushes
-reactable axe kick move that low crushes
+reactable axe kick that low crushes
 reactable axe kick that evades
-reactable axekick that guard crushes
+reactable axekick move that guard crushes
 reactable axekick that launches
 reactable axekick that transitions to stance
-reactable axekick move that tornados
+reactable axekick that tornados
 reactable axekick that knocks down
-reactable axekick that staggers
+reactable axekick move that staggers
 reactable axekick that high crushes
 reactable axekick that low crushes
-reactable axekick move that evades
+reactable axekick that evades
 reactable heel that guard crushes
-reactable heel that launches
+reactable heel move that launches
 reactable heel that transitions to stance
 reactable heel that tornados
-reactable heel move that knocks down
+reactable heel that knocks down
 reactable heel that staggers
-reactable heel that high crushes
+reactable heel move that high crushes
 reactable heel that low crushes
 reactable heel that evades
-reactable sweep move that guard crushes
+reactable sweep that guard crushes
 reactable sweep that launches
-reactable sweep that transitions to stance
+reactable sweep move that transitions to stance
 reactable sweep that tornados
 reactable sweep that knocks down
-reactable sweep move that staggers
+reactable sweep that staggers
 reactable sweep that high crushes
-reactable sweep that low crushes
+reactable sweep move that low crushes
 reactable sweep that evades
 reactable slide that guard crushes
-reactable slide move that launches
+reactable slide that launches
 reactable slide that transitions to stance
-reactable slide that tornados
+reactable slide move that tornados
 reactable slide that knocks down
 reactable slide that staggers
-reactable slide move that high crushes
+reactable slide that high crushes
 reactable slide that low crushes
-reactable slide that evades
+reactable slide move that evades
 reactable knee that guard crushes
 reactable knee that launches
-reactable knee move that transitions to stance
+reactable knee that transitions to stance
 reactable knee that tornados
-reactable knee that knocks down
+reactable knee move that knocks down
 reactable knee that staggers
 reactable knee that high crushes
-reactable knee move that low crushes
+reactable knee that low crushes
 reactable knee that evades
