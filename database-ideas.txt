@@ -1,0 +1,47 @@
+{
+    "reina":{
+        "strings":{
+
+
+
+        }
+        "nonstrings":{
+
+        }
+        "specific-moves"{
+
+        }
+        "heat-engager"{
+
+        }
+        "power-crush"{
+
+        }
+    }
+
+    "paul":{
+        "strings":{
+
+
+
+        }
+        "nonstrings":{
+
+        }
+        
+        "heat-engager"{
+
+        }
+        "power-crush":{
+            {'id': 1, 
+            'input': 'b 1+2', 
+            'frames-startup': 19
+            }            
+        }
+        "specific-moves"{
+
+        }
+    }
+
+    etc
+}

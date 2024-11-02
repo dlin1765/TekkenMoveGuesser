@@ -22,93 +22,65 @@
     ],
     "ner":[
       "LIMB",
-      "MOVE_BLOCK_PROPERTY",
-      "MOVE_HIT_PROPERTY",
-      "MOVE_NAME",
+      "LIMB_DESCRIPTION",
+      "LIMB_HOW",
       "MOVE_PROPERTY",
-      "MOVE_STATE",
       "MOVE_TYPE",
-      "RANGE",
-      "SPECIFIC_INPUT",
-      "SPECIFIC_MOVE",
       "STRING_DETAIL"
     ]
   },
   "pipeline":[
     "tok2vec",
     "specificMoves",
+    "tekkenSpecific",
     "ner"
   ],
   "components":[
     "tok2vec",
     "specificMoves",
+    "tekkenSpecific",
     "ner"
   ],
   "disabled":[
 
   ],
   "performance":{
-    "ents_f":0.9536423841,
-    "ents_p":0.9536423841,
-    "ents_r":0.9536423841,
+    "ents_f":0.9996354289,
+    "ents_p":0.9995016657,
+    "ents_r":0.9997692279,
     "ents_per_type":{
-      "MOVE_HIT_PROPERTY":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
-      },
-      "MOVE_TYPE":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
-      },
-      "MOVE_BLOCK_PROPERTY":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
-      },
-      "MOVE_PROPERTY":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
-      },
-      "RANGE":{
+      "LIMB_DESCRIPTION":{
         "p":1.0,
         "r":1.0,
         "f":1.0
       },
       "LIMB":{
         "p":1.0,
-        "r":1.0,
-        "f":1.0
+        "r":0.9996796754,
+        "f":0.999839812
       },
-      "MOVE_STATE":{
+      "MOVE_PROPERTY":{
+        "p":0.9466515323,
+        "r":0.9916765755,
+        "f":0.968641115
+      },
+      "LIMB_HOW":{
         "p":1.0,
         "r":1.0,
         "f":1.0
-      },
-      "MOVE_NAME":{
-        "p":1.0,
-        "r":1.0,
-        "f":1.0
-      },
-      "SPECIFIC_INPUT":{
-        "p":1.0,
-        "r":0.6666666667,
-        "f":0.8
-      },
-      "SPECIFIC_MOVE":{
-        "p":0.0,
-        "r":0.0,
-        "f":0.0
       },
       "STRING_DETAIL":{
         "p":1.0,
         "r":1.0,
         "f":1.0
+      },
+      "MOVE_TYPE":{
+        "p":0.0,
+        "r":0.0,
+        "f":0.0
       }
     },
-    "tok2vec_loss":145.2196258394,
-    "ner_loss":18.0013929738
+    "tok2vec_loss":157.7927912087,
+    "ner_loss":53.1567446403
   }
 }
