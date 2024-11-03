@@ -42,3 +42,16 @@ def tekkenSpecific(doc):
 
     doc.ents = list(doc.ents) + new_ents
     return doc
+
+@Language.component("taggerComp")
+def taggerComp(doc):
+    nlp = spacy.load("en_core_web_sm")
+    newDoc = nlp(doc.text)
+    i = 0
+    for token in doc:
+        token.pos_ = newDoc[i].pos_
+        token.lemma = newDoc[i].lemma
+        token.tag_ = newDoc[i].tag_
+        token.dep_ = newDoc[i].dep_
+        i += 1
+    return doc
